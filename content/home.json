@@ -7,23 +7,16 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "",
-          "end": "",
+          "start": "2021-02-24T21:02:54.264Z",
+          "end": "2021-05-28T03:00:00.000Z",
           "img": "/img/uploads/adicionar_um_titulo_3.png",
           "mobile_img": "/img/uploads/adicionar_um_titulo_3.png"
         },
         {
-          "start": "",
-          "end": "",
+          "start": "2021-02-24T21:02:58.838Z",
+          "end": "2021-09-30T03:00:00.000Z",
           "img": "/img/uploads/novo_banner_frete.png",
           "mobile_img": "/img/uploads/novo_banner_frete.png"
-        },
-        {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
         }
       ]
     },
