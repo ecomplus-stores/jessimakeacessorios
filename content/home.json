@@ -7,17 +7,21 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-02-24T20:06:16.649Z",
+          "end": "2021-02-24T20:06:16.780Z",
+          "img": "/img/uploads/adicionar_um_titulo_3.png"
+        },
+        {
+          "start": "2021-02-24T20:07:42.125Z",
+          "end": "2021-02-24T20:07:42.233Z",
+          "img": "/img/uploads/novo_banner_frete.png"
+        },
+        {
           "img": "/img/uploads/rect89.webp",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
         }
       ]
     },
