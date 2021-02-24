@@ -13,9 +13,10 @@
           "mobile_img": "/img/uploads/adicionar_um_titulo_3.png"
         },
         {
-          "start": "2021-02-24T20:07:42.125Z",
-          "end": "2021-02-24T20:07:42.233Z",
-          "img": "/img/uploads/novo_banner_frete.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/novo_banner_frete.png",
+          "mobile_img": "/img/uploads/novo_banner_frete.png"
         },
         {
           "img": "/img/uploads/rect89.webp",
