@@ -1,19 +1,19 @@
 {
   "domain": "jessimakeacessorios.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#2b1422",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
+  "logo": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "name": "Jessi Make Distribuidora",
   "short_name": "Jessimakedistribuidora",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
+  "favicon": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
