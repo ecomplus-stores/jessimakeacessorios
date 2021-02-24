@@ -7,9 +7,10 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-02-24T20:06:16.649Z",
-          "end": "2021-02-24T20:06:16.780Z",
-          "img": "/img/uploads/adicionar_um_titulo_3.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/adicionar_um_titulo_3.png",
+          "mobile_img": "/img/uploads/adicionar_um_titulo_3.png"
         },
         {
           "start": "2021-02-24T20:07:42.125Z",
