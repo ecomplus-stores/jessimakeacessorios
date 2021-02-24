@@ -1,12 +1,12 @@
 {
   "domain": "jessimakeacessorios.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#2b1422",
+  "primary_color": "#181617",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#000000",
+  "bg_color": "#0a0a0a",
   "logo": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "name": "Jessi Make Distribuidora",
   "short_name": "Jessimakedistribuidora",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#da2b91",
   "icon": "/img/uploads/passaro-pink.png",
   "store_id": 1225,
   "description": "A nossa distribuidora procura oferecer os melhores produtos e atendimento diferenciado para que possa você ter toda a confiança na compra.\n\nPossuímos valores sólidos e voltados à satisfação do cliente, conquistamos uma posição de destaque no mercado dos cosméticos, pois trabalhamos somente com produtos confiáveis no segmento em que atua. \n\nTemos como prioridade a busca constante pela excelência na prestação de serviços e no relacionamento com os clientes, colaboradores, parceiros e fornecedores. \n\nDesta forma, aproximamos ao máximo os clientes das principais etapas de cada compra, para que possa haver uma conversão dos processos tradicionais em sistemas online.",
