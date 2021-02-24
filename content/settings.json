@@ -1,23 +1,23 @@
 {
-  "store_id": 1225,
-  "name": "jessimakeacessorios",
   "domain": "jessimakeacessorios.netlify.app",
-  "short_name": "jessimakeacessorios",
-  "description": "jessimakeacessorios",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
+  "name": "Jessi Make Distribuidora",
+  "short_name": "Jessimakedistribuidora",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png",
+  "store_id": 1225,
+  "description": "A nossa distribuidora procura oferecer os melhores produtos e atendimento diferenciado. Buscamos oferecer toda qualidade do nosso serviços também nos produtos para que possa ter a confiança na compra.\n\nA nossa empresa possui valores sólidos e voltados à satisfação do cliente, conquistou uma posição nova no mercado, pois trabalhamos somente com produtos confiáveis no segmento em que atua. Tem como prioridade a busca constante pela excelência na prestação de serviços e no relacionamento com os clientes, colaboradores, parceiros e fornecedores. Desta forma, aproxima ao máximo os clientes das principais etapas de cada compra, para que possa haver uma conversão dos processos tradicionais em sistemas online.",
+  "large_icon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png"
 }
