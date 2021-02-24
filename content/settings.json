@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "logo": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "name": "Jessi Make Distribuidora",
   "short_name": "Jessimakedistribuidora",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/passaro-pink.png",
   "store_id": 1225,
-  "description": "A nossa distribuidora procura oferecer os melhores produtos e atendimento diferenciado. Buscamos oferecer toda qualidade do nosso serviços também nos produtos para que possa ter a confiança na compra.\n\nA nossa empresa possui valores sólidos e voltados à satisfação do cliente, conquistou uma posição nova no mercado, pois trabalhamos somente com produtos confiáveis no segmento em que atua. Tem como prioridade a busca constante pela excelência na prestação de serviços e no relacionamento com os clientes, colaboradores, parceiros e fornecedores. Desta forma, aproxima ao máximo os clientes das principais etapas de cada compra, para que possa haver uma conversão dos processos tradicionais em sistemas online.",
+  "description": "A nossa distribuidora procura oferecer os melhores produtos e atendimento diferenciado para que possa você ter toda a confiança na compra.\n\nPossuímos valores sólidos e voltados à satisfação do cliente, conquistamos uma posição de destaque no mercado dos cosméticos, pois trabalhamos somente com produtos confiáveis no segmento em que atua. \n\nTemos como prioridade a busca constante pela excelência na prestação de serviços e no relacionamento com os clientes, colaboradores, parceiros e fornecedores. \n\nDesta forma, aproximamos ao máximo os clientes das principais etapas de cada compra, para que possa haver uma conversão dos processos tradicionais em sistemas online.",
   "large_icon": "/img/uploads/logomarca-jessi-maker-fundo-branco.png"
 }
