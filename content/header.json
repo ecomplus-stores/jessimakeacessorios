@@ -5,16 +5,7 @@
     "background": "#2b1422"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "ATENÇÃO! Compre e pague na hora da entrega!  *Válido somente para Belém, Ananindeua, Marituba e Benevides.",
-        "link": "/pagina-Regulamento_de_Entrega"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
