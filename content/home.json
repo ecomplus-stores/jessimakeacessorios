@@ -35,7 +35,7 @@
         "603838209332dd6865df1f38",
         "603838a09332dd6865df1ff4"
       ],
-      "notes": "Oferta do Dia"
+      "notes": "Oferta do Dia, Corra antes que acabe!"
     },
     {
       "type": "collection-shelf",
@@ -52,6 +52,13 @@
       "collection_id": null,
       "sort": "sales",
       "title": "Mais Vendidos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "slug"
     },
     {
       "type": "page-title",
