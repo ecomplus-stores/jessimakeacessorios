@@ -1,5 +1,5 @@
 {
-  "css": ".order-info__toggle {\n    display: none !important;\n}\n.product-card__buy.fade {\n  opacity: 1 !important;\n}\n",
+  "css": ".order-info__toggle {\n    display: none !important;\n}\n",
   "html_head": "",
   "html_body": ""
 }
