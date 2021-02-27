@@ -1,5 +1,5 @@
 {
   "css": ".order-info__toggle {\n    display: none !important;\n}\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "\n<script type=\"text/javascript\">\n\tvar _egoiwp = _egoiwp || {};\n\t(function(){\n\tvar u=\"https://cdn-static.egoiapp2.com/\";\n\t_egoiwp.code = \"d0cbdc002ae6e697d088905db45b6819\";\n\tvar d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n\tg.type='text/javascript';\n\tg.defer=true;\n\tg.async=true;\n\tg.src=u+'webpush.js';\n\ts.parentNode.insertBefore(g,s);\n\t})();\n</script>\n"
 }
