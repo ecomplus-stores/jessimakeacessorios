@@ -2,15 +2,10 @@
   "marketing_stripe": {
     "text": "Receba ainda hoje sua compra! Saiba mais!",
     "link": "pages/regulamento-de-entrega",
-    "background": "#675f64"
+    "background": "#ff7ac1"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "ATENÇÃO! Compre e pague na hora da entrega! *Válido somente para Belém, Ananindeua, Marituba e Benevides.",
-        "link": "/pages/regulamento-de-entrega"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
