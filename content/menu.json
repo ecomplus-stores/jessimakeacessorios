@@ -1,5 +1,10 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "promocao-dia-da-mulher",
+    "marcas",
+    "box-e-kit",
+    "rosto"
+  ],
   "phone_wpp": false,
   "socials": false
 }
