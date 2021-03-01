@@ -40,7 +40,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "limit": 23,
+      "limit": 20,
       "page": 1,
       "title": "Produtos que acabaram de chegar",
       "sort": "news"
@@ -48,17 +48,17 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
       "collection_id": null,
-      "sort": "sales",
+      "sort": null,
       "title": "Mais Vendidos",
       "headless": false
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
       "sort": "slug",
       "title": "Mais desejados",
