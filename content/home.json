@@ -17,6 +17,12 @@
           "end": "2021-09-30T03:00:00.000Z",
           "img": "/img/uploads/banner-rr.png",
           "mobile_img": "/img/uploads/novo_banner_frete.png"
+        },
+        {
+          "start": "2021-03-01T12:30:54.257Z",
+          "end": "2021-03-01T12:30:54.464Z",
+          "img": "/img/uploads/banner-rr.png",
+          "mobile_img": "/img/uploads/frete_gratis_5.png"
         }
       ]
     },
