@@ -25,7 +25,10 @@
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
     },
-    {}
+    {
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.jessimake.com.br&hl=pt_BR",
+      "src": "/img/uploads/selo-google.png"
+    }
   ],
   "payment_methods": {
     "bb": true,
@@ -40,7 +43,7 @@
     "santander": true,
     "mastercard": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "amex": true,
     "itau": true
   },
