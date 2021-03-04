@@ -37,14 +37,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/lancamento_1.png"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/compre_r_10000_em_produtos_di_grezzo_e_3.png"
-    },
-    {
       "type": "offers-timer",
       "max_hours": 36,
       "start": "2021-03-04T14:32:21.626Z",
