@@ -37,6 +37,17 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 36,
+      "start": "2021-03-04T14:32:21.626Z",
+      "end": "2021-03-12T14:32:21.799Z",
+      "notes": "Promoção de lançamento do nosso novo site!",
+      "offers": [
+        "603a6b869332dd6865e13586",
+        "60390af69332dd6865dff53e"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -44,6 +55,15 @@
       "page": 1,
       "title": "Produtos que acabaram de chegar",
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/frete_gratis_5.png",
+          "mobile_img": "/img/uploads/lancamento_1.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -76,18 +96,6 @@
       "type": "page-title",
       "title": "Jessi Make Distribuidora ",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 36,
-      "start": "2021-03-04T14:32:21.626Z",
-      "end": "2021-03-12T14:32:21.799Z",
-      "notes": "Promoção de lançamento do nosso novo site!",
-      "offers": [
-        "603a6b869332dd6865e13586",
-        "60390af69332dd6865dff53e",
-        "603a5cf09332dd6865e126a2"
-      ]
     }
   ]
 }
