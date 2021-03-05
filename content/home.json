@@ -57,6 +57,14 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/linha-facial-grid.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 20,
