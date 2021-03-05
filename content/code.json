@@ -1,5 +1,5 @@
 {
   "css": ".order-info__toggle {\n    display: none !important;\n}\n",
   "html_head": "",
-  "html_body": "<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\" async=\"\"></script>\n<script>\n  window.OneSignal = window.OneSignal || [];\n  OneSignal.push(function() {\n    OneSignal.init({\n      appId: \"1221dfe9-9f64-43d0-92a8-19b85ed2c8a5\",\n    });\n  });\n</script>"
+  "html_body": ""
 }
