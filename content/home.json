@@ -8,6 +8,12 @@
       "slides": [
         {
           "img": "/img/uploads/banner-dia-da-mulher-novo-site.png",
+          "start": "2021-03-06T12:18:46.474Z",
+          "end": "2021-03-09T02:59:00.000Z",
+          "mobile_img": "/img/uploads/dia-da-mulher-3-.png"
+        },
+        {
+          "img": "/img/uploads/banner-dia-da-mulher-novo-site.png",
           "start": "2021-03-06T12:18:50.955Z",
           "end": "2021-03-06T12:18:51.256Z",
           "mobile_img": "/img/uploads/dia-da-mulher-3-.png"
@@ -29,12 +35,6 @@
           "end": "2021-06-01T12:30:00.000Z",
           "img": "/img/uploads/novo-banner-frete-gratis-1.png",
           "mobile_img": "/img/uploads/frete_gratis_5.png"
-        },
-        {
-          "img": "/img/uploads/banner-dia-da-mulher-novo-site.png",
-          "start": "2021-03-06T12:18:46.474Z",
-          "end": "2021-03-06T12:18:46.716Z",
-          "mobile_img": "/img/uploads/dia-da-mulher-3-.png"
         }
       ]
     },
