@@ -100,11 +100,6 @@
       "collection_id": null,
       "title": "Top Marcas",
       "headless": true
-    },
-    {
-      "type": "page-title",
-      "title": "",
-      "description": ""
     }
   ]
 }
