@@ -76,7 +76,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/descontos-de-ate-1-.png"
+          "img": "/img/uploads/descontos-de-ate-1-.png",
+          "link": "https://jessimakeacessorios.netlify.app/promocao-dia-da-mulher"
         },
         {
           "img": "/img/uploads/e-rapido-e-seguro-2-.png"
