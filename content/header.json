@@ -7,7 +7,7 @@
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
