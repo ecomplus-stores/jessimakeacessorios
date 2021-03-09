@@ -44,7 +44,7 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 56,
+      "max_hours": 72,
       "start": "2021-03-04T14:32:21.626Z",
       "end": "2021-03-13T02:59:00.000Z",
       "notes": "Promoção de lançamento do nosso novo site!",
