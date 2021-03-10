@@ -60,7 +60,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/chegou-novidade-.png"
+      "img": "/img/uploads/chegou-novidade-.png",
+      "link": "https://www.jessimake.com.br/novidades"
     },
     {
       "type": "collection-shelf",
