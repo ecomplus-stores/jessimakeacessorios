@@ -56,7 +56,7 @@
       "limit": 20,
       "page": 1,
       "title": "Produtos que acabaram de chegar",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
