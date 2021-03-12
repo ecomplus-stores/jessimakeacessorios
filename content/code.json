@@ -1,5 +1,5 @@
 {
-  "css": ".order-info__toggle {\n    display: none !important;\n}\n",
+  "css": ".order-info__toggle {\n    display: none !important;\n}\n\n\n.product__short-stock {\ndisplay: none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
