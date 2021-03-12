@@ -31,6 +31,12 @@
           "end": "2021-06-01T12:30:00.000Z",
           "img": "/img/uploads/_confira-o-regulamento-de-entrega-1-.png",
           "mobile_img": "/img/uploads/banner-frete-1-.png"
+        },
+        {
+          "start": "2021-03-12T14:14:10.849Z",
+          "end": "2021-03-12T14:14:10.918Z",
+          "img": "/img/uploads/banner-nova-colecao-mar-morto.png",
+          "mobile_img": "/img/uploads/banner-colecao-mar-morto-mobile.png"
         }
       ]
     },
