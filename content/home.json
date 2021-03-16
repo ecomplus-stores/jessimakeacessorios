@@ -7,12 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-03-12T14:14:10.849Z",
-          "end": "2021-03-12T14:14:10.918Z",
-          "img": "/img/uploads/banner-nova-colecao-mar-morto_1.png",
-          "mobile_img": "/img/uploads/banner-colecao-mar-morto-mobile_2.png"
-        },
-        {
           "start": "2021-02-24T21:02:54.264Z",
           "end": "2021-05-28T03:00:00.000Z",
           "img": "/img/uploads/f7cac7-1-.png",
@@ -30,6 +24,12 @@
           "end": "2021-06-01T12:30:00.000Z",
           "img": "/img/uploads/_confira-o-regulamento-de-entrega-1-.png",
           "mobile_img": "/img/uploads/banner-frete-1-.png"
+        },
+        {
+          "start": "2021-03-16T18:18:44.568Z",
+          "end": "2021-03-16T18:18:44.658Z",
+          "img": "/img/uploads/banner-nova-colecao-mar-morto_1.png",
+          "mobile_img": "/img/uploads/banner-colecao-mar-morto-mobile_2.png"
         }
       ]
     },
