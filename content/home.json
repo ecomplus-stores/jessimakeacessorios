@@ -87,7 +87,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 20,
       "page": 1,
       "sort": null,
@@ -96,7 +96,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 20,
       "page": 1,
       "collection_id": null,
