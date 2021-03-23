@@ -54,7 +54,7 @@
       "collection_id": "6048db0ca735d032cbb6acb2:categories:NOVIDADES:/novidades",
       "limit": 24,
       "page": 1,
-      "title": "Produtos que acabaram de chegar",
+      "title": "Produtos que acabaram de chegar ",
       "sort": "news"
     },
     {
@@ -66,7 +66,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/promocao-dia-da-mulher",
       "sort": null,
@@ -88,7 +88,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "sort": null,
       "title": "Mais vendidos",
@@ -97,12 +97,21 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "collection_id": null,
       "title": "Top Marcas",
       "headless": true,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "headless": true,
+      "sort": null,
+      "collection_id": "603d4b85e04bb619ee4b658e:categories:SP COLORS:/sp-colors"
     }
   ]
 }
