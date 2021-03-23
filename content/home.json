@@ -68,9 +68,9 @@
       "shuffle": false,
       "limit": 20,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/promocao-dia-da-mulher",
       "sort": null,
-      "title": "Mais Vendidos",
+      "title": "Produtos em Promoção",
       "headless": false
     },
     {
@@ -91,7 +91,7 @@
       "limit": 20,
       "page": 1,
       "sort": null,
-      "title": "Mais desejados",
+      "title": "Mais vendidos",
       "headless": false
     },
     {
