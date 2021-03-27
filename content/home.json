@@ -99,10 +99,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "603ab6859332dd6865e171a4:categories:CITY GIRLS:/city-girl",
       "title": "Top Marcas",
       "headless": true,
-      "sort": "news"
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
