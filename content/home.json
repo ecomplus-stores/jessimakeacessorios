@@ -65,11 +65,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/promocao-dia-da-mulher",
-      "sort": null,
+      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/produtos-em-promocao",
+      "sort": "slug",
       "title": "Produtos em Promoção",
       "headless": false
     },
