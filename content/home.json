@@ -99,10 +99,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "603ab6859332dd6865e171a4:categories:CITY GIRLS:/city-girl",
+      "collection_id": "603d4932e04bb619ee4b6251:categories:RUBY ROSE:/ruby-rose",
       "title": "Top Marcas",
       "headless": true,
-      "sort": "slug"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
