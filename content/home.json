@@ -42,7 +42,7 @@
       "type": "offers-timer",
       "max_hours": 120,
       "start": "2021-04-12T13:06:14.681Z",
-      "end": "2021-04-13T04:00:00.000Z",
+      "end": "2021-04-12T20:00:00.000Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias!",
       "offers": [
         "6038e6659332dd6865dfc10b",
