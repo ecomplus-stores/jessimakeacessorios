@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.abafb0724c0f0e0ad4c2f36ee6930e5f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8b06a79419899a93a979c753fa6af5cf.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.78e8696abb5e7ebb60b0ceeec0102388.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f4292aaa92e390e51c89d3f3d49ba482.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c5bd1d0eef6c770ccc55a78c5e950d7e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Jessi Make Distribuidora",
+  "short_name": "Jessi Make Distribuidora",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos uma Distribuidora especializada em produtos de maquiagem com sede em Belém. Buscamos oferecer os melhores preços e produtos atrelado a um atendimento diferenciado para que possa você ter toda a confiança na compra. ",
+  "background_color": "#0a0a0a",
+  "theme_color": "#181617"
+}
