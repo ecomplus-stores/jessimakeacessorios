@@ -1,5 +1,5 @@
 {
-  "css": ".order-info__toggle {\n    display: none !important;\n}\n\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n@media screen and (max-width: 480px) {\n.product-card__buy.fade {\nopacity: 1 !important;\n}}\n\nbody {\n  font-family: Poppins, sans-serif !important;\n}\n",
+  "css": ".order-info__toggle {\n    display: none !important;\n}\n\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n\nbody {\n  font-family: Poppins, sans-serif !important;\n}\n",
   "html_head": "",
   "html_body": ""
 }
