@@ -7,13 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-03-29T19:28:53.368Z",
-          "end": "2021-06-30T19:28:54.626Z",
-          "img": "/img/uploads/dia_a_dia_mahav_banner_web.png",
-          "mobile_img": "/img/uploads/dia_a_dia_mahav_banner_mobile.png",
-          "link": "https://www.jessimake.com.br/mahav"
-        },
-        {
           "start": "2021-02-24T21:02:54.264Z",
           "end": "2021-05-28T03:00:00.000Z",
           "img": "/img/uploads/f7cac7-1-.png",
@@ -41,12 +34,12 @@
     {
       "type": "offers-timer",
       "max_hours": 120,
-      "start": "2021-04-13T20:23:32.008Z",
-      "end": "2021-04-19T15:00:00.000Z",
+      "start": "2021-04-19T19:23:23.420Z",
+      "end": "2021-04-20T20:00:00.000Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias!",
       "offers": [
-        "6039fad89332dd6865e0d928",
-        "60391c149332dd6865e008cc"
+        "60385a2d9332dd6865df5633",
+        "603839619332dd6865df2169"
       ]
     },
     {
