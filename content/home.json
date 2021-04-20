@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-04-20T20:23:48.366Z",
+          "end": "2021-06-01T02:59:00.000Z",
+          "img": "/img/uploads/mes-das-maes-jessimake-5-.png",
+          "mobile_img": "/img/uploads/dia-das-maes-jessi-make-final-mobile.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2021-02-24T21:02:54.264Z",
           "end": "2021-05-28T03:00:00.000Z",
           "img": "/img/uploads/f7cac7-1-.png",
@@ -24,13 +31,6 @@
           "end": "2021-06-01T12:30:00.000Z",
           "img": "/img/uploads/_confira-o-regulamento-de-entrega-1-.png",
           "mobile_img": "/img/uploads/banner-frete-1-.png"
-        },
-        {
-          "start": "2021-04-20T20:23:48.366Z",
-          "end": "2021-06-01T02:59:00.000Z",
-          "img": "/img/uploads/mes-das-maes-jessimake-5-.png",
-          "mobile_img": "/img/uploads/dia-das-maes-jessi-make-final-mobile.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ]
     },
@@ -42,11 +42,11 @@
       "type": "offers-timer",
       "max_hours": 120,
       "start": "2021-04-19T19:23:23.420Z",
-      "end": "2021-04-20T20:00:00.000Z",
+      "end": "2021-04-23T02:59:00.000Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias!",
       "offers": [
-        "60385a2d9332dd6865df5633",
-        "603839619332dd6865df2169"
+        "60623e47a46e555927c7f0dd",
+        "60622606a46e555927c7d772"
       ]
     },
     {
