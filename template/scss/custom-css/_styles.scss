@@ -151,14 +151,10 @@ background-color: rgb(255,20,147) !important;
     }
   }
 }
-.product-card__buy {
-  button {
-    color: #000;
-  }
-  button:hover {
-    color: #000;
-  }
-  .fa-shopping-bag {
-    color: #000;
-  }
+.product-card__name,
+.product-card__prices,
+.prices__compare,
+.prices__value,
+.prices__installments {
+  color: #000;
 }
