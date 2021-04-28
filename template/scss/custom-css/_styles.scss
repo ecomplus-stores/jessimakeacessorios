@@ -151,3 +151,14 @@ background-color: rgb(255,20,147) !important;
     }
   }
 }
+.product-card__buy {
+  button {
+    color: black;
+  }
+  button:hover {
+    color: black;
+  }
+  .fa-shopping-bag {
+    color: black;
+  }
+}
