@@ -1,17 +1,17 @@
 // Add your custom CSS here.
 @media screen and (max-width: 480px) {
-.product-card__buy.fade {
-opacity: 1 !important;
+  .product-card__buy.fade {
+    opacity: 1 !important;
+  }
 }
-}
-.product-card__buy.fade .btn{
-background-color: rgb(255,20,147) !important;
+.product-card__buy.fade .btn {
+  background-color: rgb(255, 20, 147) !important;
 }
 .card-footer .minicart__btn-checkout.btn.btn-block.btn-primary {
   display: none !important;
 }
 .header__toggler span {
-  color: #eb4698 !important
+  color: #eb4698 !important;
 }
 #a-marcas {
   .menu__list {
@@ -22,132 +22,144 @@ background-color: rgb(255,20,147) !important;
         width: 3rem;
       }
       &#c-603927469332dd6865e0146f {
-        order: 1
+        order: 1;
       }
       &#c-6039293b9332dd6865e016ec {
-        order: 2
+        order: 2;
       }
       &#c-603aa9b19332dd6865e16628 {
-        order: 3
+        order: 3;
       }
       &#c-603aaa779332dd6865e166e8 {
-        order: 4
+        order: 4;
       }
       &#c-603aabb39332dd6865e16834 {
-        order: 5
+        order: 5;
       }
       &#c-603ab6859332dd6865e171a4 {
-        order: 6
+        order: 6;
       }
       &#c-603cd2399332dd6865e29aec {
-        order: 7
+        order: 7;
       }
       &#c-603cd28f9332dd6865e29b36 {
-        order: 8
+        order: 8;
       }
       &#c-603cd3019332dd6865e29b8f {
-        order: 9
+        order: 9;
       }
       &#c-603cd3b29332dd6865e29bdf {
-        order: 10
+        order: 10;
       }
       &#c-603cd4309332dd6865e29c12 {
-        order: 11
+        order: 11;
       }
       &#c-603cd50c9332dd6865e29c6f {
-        order: 12
+        order: 12;
       }
       &#c-603cd6b99332dd6865e29d10 {
-        order: 13
+        order: 13;
       }
       &#c-603cd8fe9332dd6865e29e46 {
-        order: 14
+        order: 14;
       }
       &#c-603cd9989332dd6865e29e8e {
-        order: 15
+        order: 15;
       }
       &#c-603cda3c9332dd6865e29ee7 {
-        order: 16
+        order: 16;
       }
       &#c-603cda999332dd6865e29f26 {
-        order: 17
+        order: 17;
       }
       &#c-603d2601e04bb619ee4b2b57 {
-        order: 18
+        order: 18;
       }
       &#c-604637496d50911b605778e6 {
         order: 19;
         border-bottom: 1px solid;
       }
       &#c-603d2880e04bb619ee4b2ecf {
-        order: 20
+        order: 20;
       }
       &#c-603d28f3e04bb619ee4b2f65 {
-        order: 21
+        order: 21;
       }
       &#c-603d2ab0e04bb619ee4b31ad {
-        order: 22
+        order: 22;
       }
       &#c-603d2b97e04bb619ee4b32f2 {
-        order: 23
+        order: 23;
       }
       &#c-603d2cf3e04bb619ee4b3612 {
-        order: 24
+        order: 24;
       }
       &#c-603d2d5ae04bb619ee4b36dc {
-        order: 25
+        order: 25;
       }
       &#c-603d2dcfe04bb619ee4b37d3 {
-        order: 26
+        order: 26;
       }
       &#c-603d2ed3e04bb619ee4b39b7 {
-        order: 27
+        order: 27;
       }
       &#c-603d2f82e04bb619ee4b3a8e {
-        order: 28
+        order: 28;
       }
       &#c-603d3020e04bb619ee4b3b7e {
-        order: 29
+        order: 29;
       }
       &#c-603d4574e04bb619ee4b5c69 {
-        order: 30
+        order: 30;
       }
       &#c-603d4608e04bb619ee4b5d4b {
-        order: 31
+        order: 31;
       }
       &#c-603d46e0e04bb619ee4b5ea4 {
-        order: 32
+        order: 32;
       }
       &#c-603d47d6e04bb619ee4b6047 {
-        order: 33
+        order: 33;
       }
       &#c-603d4932e04bb619ee4b6251 {
-        order: 34
+        order: 34;
       }
       &#c-603d49fee04bb619ee4b6361 {
-        order: 35
+        order: 35;
       }
       &#c-603d4aeae04bb619ee4b648f {
-        order: 36
+        order: 36;
       }
       &#c-603d4b85e04bb619ee4b658e {
-        order: 37
+        order: 37;
       }
       &#c-603d4d2de04bb619ee4b677f {
-        order: 38
+        order: 38;
       }
       &#c-603d4dcbe04bb619ee4b682d {
-        order: 39
+        order: 39;
       }
       &#c-603d4ecbe04bb619ee4b6973 {
-        order: 40
+        order: 40;
       }
       &#c-603d2e2ce04bb619ee4b38a7 {
-        order: 27
+        order: 27;
       }
       &#c-603cedb49332dd6865e2b1dc {
-        order: 18
+        order: 18;
       }
     }
+  }
+}
+
+.product-card__buy {
+  button {
+    color: black;
+  }
+  button:hover {
+    color: black;
+  }
+  .fa-shopping-bag {
+    color: black;
   }
 }
