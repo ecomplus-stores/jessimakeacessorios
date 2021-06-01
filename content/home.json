@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-06-01T18:54:47.638Z",
+          "end": "2021-07-01T18:54:47.853Z",
+          "img": "/img/uploads/banner-02.jpg",
+          "mobile_img": "/img/uploads/banner-jessica-mobile-2.jpg",
+          "link": "https://www.jessimake.com.br/box-e-kit"
+        },
+        {
           "start": "2021-05-24T18:01:02.056Z",
           "end": "2021-06-24T18:00:00.000Z",
           "img": "/img/uploads/oportunidade_revendedor_web.png",
@@ -32,13 +39,6 @@
           "end": "2021-06-01T12:30:00.000Z",
           "img": "/img/uploads/_confira-o-regulamento-de-entrega-1-.png",
           "mobile_img": "/img/uploads/banner-frete-1-.png"
-        },
-        {
-          "start": "2021-06-01T18:54:47.638Z",
-          "end": "2021-07-01T18:54:47.853Z",
-          "img": "/img/uploads/banner-02.jpg",
-          "mobile_img": "/img/uploads/banner-jessica-mobile-2.jpg",
-          "link": "https://www.jessimake.com.br/box-e-kit"
         }
       ]
     },
