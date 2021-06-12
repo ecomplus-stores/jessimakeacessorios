@@ -4,11 +4,11 @@ on: pull_request
 
 jobs:
   compress-images:
-    name: Optimize repository images
+    name: Compress repository images
     runs-on: ubuntu-latest
     if: |
-       !contains(github.event.pull_request.title, '[skip ci]') &&
-       !startsWith(github.head_ref, 'chore')
+      !contains(github.event.pull_request.title, '[skip ci]') &&
+      !startsWith(github.head_ref, 'chore')
 
     steps:
       - name: Checkout
@@ -19,20 +19,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Wait images optimization
+        run: sleep 120
+
   auto-merge:
     name: Auto merge dependencies PRs
     runs-on: ubuntu-latest
-    if: github.actor == 'dependabot[bot]' || github.actor == 'dependabot-preview[bot]'
+    if: |
+      github.actor == 'renovate[bot]' ||
+      github.actor == 'renovate-preview[bot]'
 
     steps:
-      - name: Wait images optimization
-        if: |
-           !contains(github.event.pull_request.title, '[skip ci]') &&
-           !startsWith(github.head_ref, 'chore')
-        run: sleep 120
-
       - name: Squash and merge
-        uses: actions/github-script@v3
+        if: |
+          contains(github.event.pull_request.body, 'Automerge**: Enabled')
+        uses: actions/github-script@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
