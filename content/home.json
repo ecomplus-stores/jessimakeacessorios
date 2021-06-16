@@ -49,12 +49,12 @@
     {
       "type": "offers-timer",
       "max_hours": 120,
-      "start": "2021-06-11T18:10:33.428Z",
-      "end": "2021-06-14T20:00:00.000Z",
+      "start": "2021-06-16T12:18:02.475Z",
+      "end": "2021-06-18T20:00:00.000Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias! ",
       "offers": [
-        "60458a346d50911b6056fb45",
-        "60383d7b9332dd6865df28fa"
+        "6039f3219332dd6865e0d4fc",
+        "603864f59332dd6865df5fe3"
       ]
     },
     {
