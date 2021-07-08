@@ -177,3 +177,11 @@ color: #a0a4a7
   border: none;
   color: #000
 }
+@media(max-width: 767px) {
+  .pagination.mr-2 {
+    display: none !important;
+  }
+  .pagination.d-none.d-lg-flex {
+    display: flex !important;
+  }
+}
