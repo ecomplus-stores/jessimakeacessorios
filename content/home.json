@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-07-12T11:21:09.827Z",
+          "end": "2021-08-01T11:21:10.175Z",
+          "img": "/img/uploads/banner-verao-1.jpg",
+          "mobile_img": "/img/uploads/banner-verao-2.jpg",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao?"
+        },
+        {
           "start": "2021-07-02T14:39:04.961Z",
           "end": "2021-07-31T15:26:54.363Z",
           "img": "/img/uploads/3-banner_loja_destaque_rubyrose_junho21.png",
