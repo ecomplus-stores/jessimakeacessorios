@@ -44,16 +44,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bases-e-corretivos_banner.png"
+          "img": "/img/uploads/bases-e-corretivos_banner.png",
+          "mobile_img": "/img/uploads/base_banner_mobile.png"
         },
         {
-          "img": "/img/uploads/paletas_banner.png"
+          "img": "/img/uploads/paletas_banner.png",
+          "mobile_img": "/img/uploads/paleta_banner_mobile.png"
         },
         {
-          "img": "/img/uploads/revender_banner.png"
+          "img": "/img/uploads/revender_banner.png",
+          "mobile_img": "/img/uploads/revenda_banner_mobile.png"
         },
         {
-          "img": "/img/uploads/outlet_banner.png"
+          "img": "/img/uploads/outlet_banner.png",
+          "mobile_img": "/img/uploads/botafora_banner_mobile.png"
         }
       ]
     },
