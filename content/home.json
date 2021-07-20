@@ -45,19 +45,19 @@
       "banners": [
         {
           "img": "/img/uploads/bases-e-corretivos_banner.png",
-          "mobile_img": "/img/uploads/rdtrd.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/paletas_banner.png",
-          "mobile_img": "/img/uploads/vyv.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/revender_banner.png",
-          "mobile_img": "/img/uploads/uibub.png"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/outlet_banner.png",
-          "mobile_img": "/img/uploads/buib.png"
+          "mobile_img": ""
         }
       ]
     },
