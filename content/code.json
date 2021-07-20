@@ -1,5 +1,5 @@
 {
-  "css": ".order-info__toggle {\n    display: none !important;\n}\n\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n\nbody, p, span, a, em, b, small, strong, h1, h2, h3, h4, h5, h6 {\n  font-family: Poppins, sans-serif !important;\n}\n\n\n.banners-grid .col-12.col-lg-3 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }",
+  "css": ".order-info__toggle {\n    display: none !important;\n}\n\n\n.product__short-stock {\ndisplay: none !important;\n}\n\n\nbody, p, span, a, em, b, small, strong, h1, h2, h3, h4, h5, h6 {\n  font-family: Poppins, sans-serif !important;\n}\n\n\n@media(max-width: 767px){.banners-grid .col-12.col-lg-3 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }}",
   "html_head": "<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"><link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap\" rel=\"stylesheet\">\n\n\n\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/83c3bc25024fddb7c3df0212b/d962a7b526d918c5bf725a698.js\");</script>",
   "html_body": ""
 }
