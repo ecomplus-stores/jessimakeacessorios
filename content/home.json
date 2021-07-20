@@ -45,19 +45,23 @@
       "banners": [
         {
           "img": "/img/uploads/bases-e-corretivos_banner.png",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://www.jessimake.com.br/search?term=base"
         },
         {
           "img": "/img/uploads/paletas_banner.png",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://www.jessimake.com.br/search?term=paleta"
         },
         {
           "img": "/img/uploads/revender_banner.png",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://www.jessimake.com.br/box-e-kit?"
         },
         {
           "img": "/img/uploads/outlet_banner.png",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao?"
         }
       ]
     },
