@@ -41,6 +41,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bases-e-corretivos_banner.png"
+        },
+        {
+          "img": "/img/uploads/paletas_banner.png"
+        },
+        {
+          "img": "/img/uploads/revender_banner.png"
+        },
+        {
+          "img": "/img/uploads/outlet_banner.png"
+        }
+      ]
+    },
+    {
       "type": "offers-timer",
       "max_hours": 120,
       "start": "2021-07-19T18:19:02.517Z",
