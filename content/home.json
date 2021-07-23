@@ -77,6 +77,17 @@
       ]
     },
     {
+      "page": 1,
+      "title": "Produtos que acabaram de chegar",
+      "shuffle": true,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.jessimake.com.br/novidades?",
+      "limit": 24,
+      "collection_id": "60f01b94d505781f1a7de8d4:categories:NOVIDADES:/novidades",
+      "sort": null
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "60a7ff1baa82b4705e446f5e:categories:NOVIDADES:/novidades",
@@ -129,12 +140,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "headless": true,
-      "sort": null,
-      "collection_id": "603cd9989332dd6865e29e8e:categories:FENZZA:/fenzza"
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
