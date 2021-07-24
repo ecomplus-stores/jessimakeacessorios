@@ -55,7 +55,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bases_banner_grid.png",
+          "img": "/img/uploads/base_banner_grid.png",
           "mobile_img": "",
           "link": "https://www.jessimake.com.br/search?term=base"
         },
