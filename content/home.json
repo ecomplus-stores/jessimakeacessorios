@@ -43,12 +43,12 @@
     {
       "type": "offers-timer",
       "max_hours": 120,
-      "start": "2021-07-20T20:29:00.742Z",
-      "end": "2021-07-23T20:30:49.138Z",
+      "start": "2021-07-24T12:59:31.316Z",
+      "end": "2021-07-26T20:30:49.138Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias! ",
       "offers": [
-        "603864f59332dd6865df5fe3",
-        "6045d1046d50911b60571ce9"
+        "603a3a479332dd6865e1027e",
+        "603a3a479332dd6865e1027e"
       ]
     },
     {
