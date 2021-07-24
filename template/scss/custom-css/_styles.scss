@@ -121,8 +121,9 @@ background-color: rgb(255,20,147) !important;
       &#c-603d47d6e04bb619ee4b6047 {
         order: 33
       }
-      &#c-603d4932e04bb619ee4b6251 {
-        order: 34
+      &#c-603d4932e04bb619ee4b6251, &#c-60cb3fdad24de4526fa78a46 {
+        order: 34;
+        border-bottom: 1px solid #000;
       }
       &#c-603d49fee04bb619ee4b6361 {
         order: 35
@@ -147,10 +148,6 @@ background-color: rgb(255,20,147) !important;
       }
       &#c-603cedb49332dd6865e2b1dc {
         order: 18
-      },
-      &#c-60cb3fdad24de4526fa78a46 {
-        order: 34;
-        border-bottom: 1px solid #000
       }
     }
   }
