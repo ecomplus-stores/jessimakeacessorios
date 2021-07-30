@@ -124,7 +124,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": null,
+      "sort": "sales",
       "title": "Mais vendidos",
       "headless": false
     },
