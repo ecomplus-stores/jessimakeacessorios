@@ -118,6 +118,21 @@
       "sort": null
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannerproturbana.png",
+      "mobile_img": "/img/uploads/bannerproturbanamobile.png",
+      "link": "https://www.jessimake.com.br/search?term=prote%C3%A7%C3%A3o+urbana"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais vendidos",
+      "headless": false
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -128,15 +143,6 @@
           "img": "/img/uploads/e-rapido-e-seguro-2-.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais vendidos",
-      "headless": false
     }
   ]
 }
