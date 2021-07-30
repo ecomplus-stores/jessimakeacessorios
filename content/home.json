@@ -90,22 +90,31 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "60a7ff1baa82b4705e446f5e:categories:NOVIDADES:/novidades",
-      "limit": 24,
-      "page": 1,
-      "title": "Produtos que acabaram de chegar ",
-      "sort": "slug",
-      "link": "https://www.jessimake.com.br/novidades"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
       "limit": 24,
       "page": 1,
       "collection_id": "603941b19332dd6865e03630:categories:PROMOÇÃO DIA DOS NAMORADOS:/produtos-em-promocao",
       "sort": "slug",
       "title": "Produtos em Promoção",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6047a1fd6d50911b60594ba6:categories:JOGOS DE PINCÉIS:/jogos-de-pinceis",
+      "title": "Kit de Pincéis",
+      "link": "https://www.jessimake.com.br/jogos-de-pinceis"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "603d4932e04bb619ee4b6251:categories:RUBY ROSE:/ruby-rose",
+      "title": "Ruby Rose",
+      "headless": true,
+      "sort": null
     },
     {
       "type": "banners-grid",
@@ -127,22 +136,6 @@
       "sort": "sales",
       "title": "Mais vendidos",
       "headless": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "603d4932e04bb619ee4b6251:categories:RUBY ROSE:/ruby-rose",
-      "title": "Top Marcas",
-      "headless": true,
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     }
   ]
 }
