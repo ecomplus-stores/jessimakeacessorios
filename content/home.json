@@ -113,7 +113,7 @@
       "page": 1,
       "collection_id": "603d4932e04bb619ee4b6251:categories:RUBY ROSE:/ruby-rose",
       "title": "Ruby Rose",
-      "headless": true,
+      "headless": false,
       "sort": null
     },
     {
