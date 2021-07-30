@@ -101,10 +101,11 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 6,
+      "page": 3,
       "collection_id": "6047a1fd6d50911b60594ba6:categories:JOGOS DE PINCÉIS:/jogos-de-pinceis",
       "title": "Kit de Pincéis",
-      "link": "https://www.jessimake.com.br/jogos-de-pinceis"
+      "link": "https://www.jessimake.com.br/jogos-de-pinceis",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
