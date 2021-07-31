@@ -43,36 +43,36 @@
     {
       "type": "offers-timer",
       "max_hours": 120,
-      "start": "2021-07-27T19:43:52.885Z",
-      "end": "2021-07-31T12:30:49.138Z",
+      "start": "2021-07-31T13:49:28.964Z",
+      "end": "2021-08-02T12:30:49.138Z",
       "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias!  ",
       "offers": [
-        "6062253ba46e555927c7d5dc",
-        "60623680a46e555927c7e85b"
+        "603a098e9332dd6865e0e0c5",
+        "6038f7d39332dd6865dfda0a"
       ]
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/base_banner_grid.png",
+          "img": "/img/uploads/banner_grid-1-.png",
           "mobile_img": "",
-          "link": "https://www.jessimake.com.br/search?term=base"
+          "link": "https://www.jessimake.com.br/search?term=Sach%C3%AA+M%C3%A1scara+Di+Grezzo"
         },
         {
-          "img": "/img/uploads/paletas_banner_grid.png",
+          "img": "/img/uploads/banner_grid-2-.png",
           "mobile_img": "",
-          "link": "https://www.jessimake.com.br/search?term=paleta"
+          "link": "https://www.jessimake.com.br/search?term=S%C3%A9rum+Di+Grezzo"
         },
         {
-          "img": "/img/uploads/revenda_banner_grid-1-.png",
+          "img": "/img/uploads/banner_grid-3-.png",
           "mobile_img": "",
-          "link": "https://www.jessimake.com.br/box-e-kit?"
+          "link": "https://www.jessimake.com.br/search?term=P%C3%B3+Banana+Zart"
         },
         {
-          "img": "/img/uploads/outlet_banner_grid.png",
+          "img": "/img/uploads/banner_grid-4-.png",
           "mobile_img": "",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao?"
+          "link": "https://www.jessimake.com.br/search?term=Paleta+de+sombra+Colors+Lovers"
         }
       ]
     },
