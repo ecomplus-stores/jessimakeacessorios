@@ -7,18 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-07-02T14:39:04.961Z",
-          "end": "2021-07-31T15:26:54.363Z",
-          "img": "/img/uploads/3-banner_loja_destaque_rubyrose_junho21.png",
-          "mobile_img": "/img/uploads/lancamentobatomcremoso.png",
-          "link": "https://www.jessimake.com.br/search?term=hb8229"
-        },
-        {
           "start": "2021-05-24T18:41:19.292Z",
           "end": "2021-08-24T18:00:00.000Z",
           "img": "/img/uploads/base_rubyrose_banner.png",
           "mobile_img": "/img/uploads/base_mobile.png",
           "link": "https://www.jessimake.com.br/search?term=base+ruby+rose"
+        },
+        {
+          "start": "2021-07-02T14:39:04.961Z",
+          "end": "2021-08-31T15:26:54.363Z",
+          "img": "/img/uploads/3-banner_loja_destaque_rubyrose_junho21.png",
+          "mobile_img": "/img/uploads/lancamentobatomcremoso.png",
+          "link": "https://www.jessimake.com.br/search?term=hb8229"
         },
         {
           "start": "2021-02-24T21:02:58.838Z",
