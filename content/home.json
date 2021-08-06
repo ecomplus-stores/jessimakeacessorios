@@ -55,23 +55,23 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_grid-1-.png",
-          "mobile_img": "/img/uploads/01-2-.png",
+          "img": "/img/uploads/001.png",
+          "mobile_img": "/img/uploads/001.png",
           "link": "https://www.jessimake.com.br/search?term=Sach%C3%AA+M%C3%A1scara+Di+Grezzo"
         },
         {
-          "img": "/img/uploads/banner_grid-2-.png",
-          "mobile_img": "/img/uploads/2.png",
+          "img": "/img/uploads/002.png",
+          "mobile_img": "/img/uploads/002.png",
           "link": "https://www.jessimake.com.br/search?term=S%C3%A9rum+Di+Grezzo"
         },
         {
-          "img": "/img/uploads/banner_grid-3-.png",
-          "mobile_img": "/img/uploads/3.png",
+          "img": "/img/uploads/003.png",
+          "mobile_img": "/img/uploads/003.png",
           "link": "https://www.jessimake.com.br/search?term=P%C3%B3+Banana+Zart"
         },
         {
-          "img": "/img/uploads/banner_grid-4-.png",
-          "mobile_img": "/img/uploads/4.png",
+          "img": "/img/uploads/004.png",
+          "mobile_img": "/img/uploads/004.png",
           "link": "https://www.jessimake.com.br/search?term=Paleta+de+sombra+Colors+Lovers"
         }
       ]
