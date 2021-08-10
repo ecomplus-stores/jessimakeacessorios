@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-08-10T12:59:06.101Z",
+          "end": "2021-08-14T02:59:05.491Z",
+          "img": "/img/uploads/banner-feirao-das-mascaras-web-2732-800.jpg",
+          "mobile_img": "/img/uploads/banner-feirao-das-mascaras-mobile-1920-1080.jpg",
+          "link": "https://www.jessimake.com.br/mascara-facial"
+        },
+        {
           "start": "2021-05-24T18:41:19.292Z",
           "end": "2021-08-24T18:00:00.000Z",
           "img": "/img/uploads/base_rubyrose_banner.png",
