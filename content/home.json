@@ -41,17 +41,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 120,
-      "start": "2021-08-09T13:32:50.526Z",
-      "end": "2021-08-10T13:35:49.138Z",
-      "notes": "Promoção do Dia! Não esqueça de sempre entrar em nosso site para conferir nossas promoções diárias!  ",
-      "offers": [
-        "603a9d5c9332dd6865e15b1d",
-        "604580ba6d50911b6056f53d"
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
