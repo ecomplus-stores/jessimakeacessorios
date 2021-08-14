@@ -100,7 +100,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "6047a1fd6d50911b60594ba6:categories:JOGOS DE PINCÉIS:/jogos-de-pinceis",
