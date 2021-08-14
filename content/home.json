@@ -77,7 +77,7 @@
       ]
     },
     {
-      "page": 1,
+      "page": 50,
       "title": "Produtos que acabaram de chegar",
       "shuffle": true,
       "headless": false,
@@ -88,7 +88,7 @@
       "sort": null
     },
     {
-      "page": 6,
+      "page": 53,
       "title": "Produtos em Promoção",
       "shuffle": true,
       "headless": false,
@@ -102,7 +102,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 3,
+      "page": 52,
       "collection_id": "6047a1fd6d50911b60594ba6:categories:JOGOS DE PINCÉIS:/jogos-de-pinceis",
       "title": "Kit de Pincéis",
       "link": "https://www.jessimake.com.br/jogos-de-pinceis",
@@ -112,7 +112,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 50,
       "collection_id": "603d4932e04bb619ee4b6251:categories:RUBY ROSE:/ruby-rose",
       "title": "Ruby Rose",
       "headless": false,
