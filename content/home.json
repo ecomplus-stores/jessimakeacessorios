@@ -36,12 +36,12 @@
     {
       "type": "offers-timer",
       "max_hours": 48,
-      "start": "2021-09-01T20:31:52.974Z",
-      "end": "2021-09-03T20:00:55.892Z",
+      "start": "2021-09-04T14:54:55.356Z",
+      "end": "2021-09-06T20:00:55.892Z",
       "notes": "Jessi Make! Aqui tem promoção todo dia! Não se esqueça de entrar em nosso site todos os dias para conferir as nossas promoções diárias!",
       "offers": [
-        "6039d3839332dd6865e0bfcd",
-        "603a36b09332dd6865e0ff15"
+        "603a098e9332dd6865e0e0c5",
+        "60bb811a641ad82fcc20f439"
       ]
     },
     {
