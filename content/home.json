@@ -77,8 +77,8 @@
       "type": "collection-shelf",
       "link": "https://www.jessimake.com.br/novidades?",
       "limit": 24,
-      "collection_id": "611413f033f3ce442f898f9d:categories:NOVIDADES:/novidades",
-      "sort": null
+      "collection_id": "614482c1522ab535e6121c0d:categories:NOVIDADES:/novidades",
+      "sort": "slug"
     },
     {
       "page": 1,
