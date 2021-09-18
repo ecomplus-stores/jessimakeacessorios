@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-09-18T15:38:35.485Z",
+          "end": "2021-12-01T03:00:32.057Z",
+          "img": "/img/uploads/lapis-miamake-web.png",
+          "mobile_img": "/img/uploads/lancamentos-mia-make-mobile.png",
+          "link": "https://www.jessimake.com.br/search?term=l%C3%A1pis+mia+make"
+        },
+        {
           "start": "2021-09-01T20:36:23.268Z",
           "end": "2021-09-30T18:00:00.000Z",
           "img": "/img/uploads/base_rubyrose_banner.png",
