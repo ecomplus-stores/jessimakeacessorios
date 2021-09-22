@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-09-22T19:49:08.632Z",
+          "end": "2021-09-22T19:49:09.085Z",
+          "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
+          "mobile_img": "/img/uploads/frete_gratis_todo_brasil_mobile.png",
+          "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
+        },
+        {
           "start": "2021-09-18T15:38:35.485Z",
           "end": "2021-12-01T03:00:32.057Z",
           "img": "/img/uploads/lapis-miamake-web.png",
@@ -26,13 +33,6 @@
           "img": "/img/uploads/3-banner_loja_destaque_rubyrose_junho21.png",
           "mobile_img": "/img/uploads/lancamentobatomcremoso.png",
           "link": "https://www.jessimake.com.br/search?term=hb8229"
-        },
-        {
-          "start": "2021-02-24T21:02:58.838Z",
-          "end": "2021-09-30T03:00:00.000Z",
-          "img": "/img/uploads/novo_banner_frete.png",
-          "mobile_img": "/img/uploads/frete-gratis-1-.png",
-          "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
         }
       ]
     },
