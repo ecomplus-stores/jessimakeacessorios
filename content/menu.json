@@ -1,10 +1,12 @@
 {
   "sort_categories": [
+    "esquenta-black-friday",
     "produtos-em-promocao",
     "box-e-kit",
     "marcas",
     "novidades"
   ],
   "phone_wpp": false,
-  "socials": false
+  "socials": false,
+  "alphabetical_order": true
 }
