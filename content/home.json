@@ -36,12 +36,12 @@
     {
       "type": "offers-timer",
       "max_hours": 48,
-      "start": "2021-10-11T21:14:54.668Z",
-      "end": "2021-10-13T14:30:55.892Z",
+      "start": "2021-10-13T21:14:54.668Z",
+      "end": "2021-10-18T02:30:55.892Z",
       "notes": "Aqui tem promoção todo dia! Não se esqueça de entrar em nosso site todos os dias para conferir as nossas promoções diárias!",
       "offers": [
-        "6164a74f28ace502aea0696d",
-        "60622e64a46e555927c7e0ed"
+        "603903859332dd6865dfe971",
+        "612fd2dc1250e82405c6a381"
       ]
     },
     {
