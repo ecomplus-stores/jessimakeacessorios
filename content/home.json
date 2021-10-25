@@ -63,15 +63,14 @@
       ]
     },
     {
-      "page": 1,
-      "title": "Produtos que acabaram de chegar",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/novidades",
+      "shuffle": true,
       "limit": 24,
+      "page": 2,
       "collection_id": "6176c0159bb4ce40f93e5774:categories:NOVIDADES:/novidades",
-      "sort": "slug"
+      "sort": "slug",
+      "title": "Produtos que acabaram de chegar",
+      "link": "https://www.jessimake.com.br/novidades"
     },
     {
       "page": 1,
