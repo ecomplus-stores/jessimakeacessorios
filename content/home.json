@@ -32,10 +32,7 @@
       "start": "2021-10-20T19:01:02.219Z",
       "end": "2021-10-25T12:00:04.292Z",
       "notes": "Aqui tem promoções todo dia! Não se esqueça de entrar em nosso site todos os dias para conferir as nossas ofertas diárias!",
-      "offers": [
-        "60390be79332dd6865dff686",
-        "60390c2f9332dd6865dff6d4"
-      ]
+      "offers": []
     },
     {
       "type": "banners-grid",
