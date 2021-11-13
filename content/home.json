@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-11-13T13:04:02.900Z",
+          "end": "2021-11-30T13:04:03.088Z",
+          "img": "/img/uploads/black-friday-2.jpg",
+          "mobile_img": "/img/uploads/black-friday-3.jpg",
+          "link": "https://www.jessimake.com.br/black-friday"
+        },
+        {
           "start": "2021-10-19T18:18:15.171Z",
           "end": "2022-01-01T02:59:09.085Z",
           "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
