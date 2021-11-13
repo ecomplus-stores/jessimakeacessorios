@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "Receba ainda hoje sua compra! Saiba mais!",
     "link": "pages/regulamento-de-entrega",
-    "background": "#eb4698"
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
