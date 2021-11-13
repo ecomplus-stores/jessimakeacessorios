@@ -60,15 +60,13 @@
       ]
     },
     {
-      "page": 1,
-      "title": "Black Friday",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/produtos-em-promocao",
+      "shuffle": true,
       "limit": 24,
-      "collection_id": "603941b19332dd6865e03630:categories:BLACK FRIDAY:/produtos-em-promocao",
-      "sort": "slug"
+      "page": 1,
+      "collection_id": "618fa83d0c7c7272257fff53:categories:BLACK FRIDAY:/black-friday",
+      "sort": "slug",
+      "title": "Black Friday"
     },
     {
       "type": "collection-shelf",
@@ -79,6 +77,17 @@
       "sort": "slug",
       "title": "Produtos que acabaram de chegar",
       "link": "https://www.jessimake.com.br/novidades"
+    },
+    {
+      "page": 1,
+      "title": "Produtos em Promoção",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.jessimake.com.br/produtos-em-promocao",
+      "limit": 24,
+      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/produtos-em-promocao",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
