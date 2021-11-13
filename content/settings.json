@@ -1,7 +1,7 @@
 {
   "domain": "www.jessimake.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#da2b91",
+  "primary_color": "#181616",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
