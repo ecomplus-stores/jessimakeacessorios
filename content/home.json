@@ -67,6 +67,17 @@
       ]
     },
     {
+      "page": 4,
+      "title": "Ofertas de Natal",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.jessimake.com.br/produtos-em-promocao",
+      "limit": 24,
+      "collection_id": "603941b19332dd6865e03630:categories:NATAL DE OFERTAS:/produtos-em-promocao",
+      "sort": "slug"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -75,17 +86,6 @@
       "sort": "slug",
       "title": "Produtos que acabaram de chegar",
       "link": "https://www.jessimake.com.br/novidades"
-    },
-    {
-      "page": 4,
-      "title": "Ofertas de Natal",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/produtos-em-promocao",
-      "limit": 24,
-      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/produtos-em-promocao",
-      "sort": "slug"
     },
     {
       "type": "collection-shelf",
