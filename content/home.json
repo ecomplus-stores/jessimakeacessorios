@@ -68,7 +68,7 @@
     },
     {
       "page": 4,
-      "title": "Ofertas de Natal",
+      "title": "Natal de Ofertas",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
