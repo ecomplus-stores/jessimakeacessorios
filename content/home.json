@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-12-08T18:32:41.416Z",
+          "end": "2022-01-01T02:59:23.757Z",
+          "img": "/img/uploads/banner_natal_web.png",
+          "mobile_img": "/img/uploads/banner_natal_mobile.png",
+          "link": "https://www.jessimake.com.br/natal-de-ofertas"
+        },
+        {
           "start": "2021-10-19T18:18:15.171Z",
           "end": "2022-01-01T02:59:09.085Z",
           "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
@@ -41,24 +48,24 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.png",
-          "mobile_img": "/img/uploads/1.png",
-          "link": "https://www.jessimake.com.br/search?term=sabrina+sato"
+          "img": "/img/uploads/base_banner_grid-5-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-5-.png",
+          "link": "https://www.jessimake.com.br/pinceis"
         },
         {
-          "img": "/img/uploads/2.png",
-          "mobile_img": "/img/uploads/2.png",
+          "img": "/img/uploads/base_banner_grid-6-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-6-.png",
           "link": "https://www.jessimake.com.br/linha-facial-skincare"
         },
         {
-          "img": "/img/uploads/3.png",
-          "mobile_img": "/img/uploads/3.png",
-          "link": "https://www.jessimake.com.br/macrilan"
+          "img": "/img/uploads/base_banner_grid-7-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-7-.png",
+          "link": "https://www.jessimake.com.br/novidades"
         },
         {
-          "img": "/img/uploads/4.png",
-          "mobile_img": "/img/uploads/4.png",
-          "link": "https://www.jessimake.com.br/miamake"
+          "img": "/img/uploads/base_banner_grid-8-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-8-.png",
+          "link": "https://www.jessimake.com.br/box-e-kit?page=2"
         }
       ]
     },
