@@ -14,18 +14,25 @@
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
         },
         {
+          "start": "2021-12-14T16:06:41.507Z",
+          "end": "2022-01-31T16:04:59.669Z",
+          "img": "/img/uploads/novo-serum-max-love-10x1.png",
+          "mobile_img": "/img/uploads/novo-serum-max-love-10x1-mob.png",
+          "link": "https://www.jessimake.com.br/search?term=S%C3%A9rum+10+em+1+max+love"
+        },
+        {
+          "start": "2021-12-14T16:07:38.929Z",
+          "end": "2022-01-31T16:07:12.354Z",
+          "img": "/img/uploads/novo-serum-max-love-3x1.png",
+          "mobile_img": "/img/uploads/novo-serum-max-love-3x1-mob.png",
+          "link": "https://www.jessimake.com.br/search?term=s%C3%A9rum+3+em+1+max+love+"
+        },
+        {
           "start": "2021-10-19T18:18:15.171Z",
           "end": "2022-01-01T02:59:09.085Z",
           "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
           "mobile_img": "/img/uploads/frete_gratis_todo_brasil_mobile.png",
           "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
-        },
-        {
-          "start": "2021-09-01T20:36:23.268Z",
-          "end": "2022-01-01T02:59:00.000Z",
-          "img": "/img/uploads/base_rubyrose_banner.png",
-          "mobile_img": "/img/uploads/base_mobile.png",
-          "link": "https://www.jessimake.com.br/search?term=base+ruby+rose"
         }
       ]
     },
