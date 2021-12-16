@@ -52,24 +52,24 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/base_banner_grid-5-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-5-.png",
-          "link": "https://www.jessimake.com.br/pinceis"
+          "img": "/img/uploads/base_banner_grid-9-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-9-.png",
+          "link": "https://www.jessimake.com.br/kit-star-ed011-macrilan"
         },
         {
-          "img": "/img/uploads/base_banner_grid-6-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-6-.png",
-          "link": "https://www.jessimake.com.br/linha-facial-skincare"
+          "img": "/img/uploads/base_banner_grid-10-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-10-.png",
+          "link": "https://www.jessimake.com.br/kit-sweet-ed001-macrilan"
         },
         {
-          "img": "/img/uploads/base_banner_grid-7-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-7-.png",
-          "link": "https://www.jessimake.com.br/novidades"
+          "img": "/img/uploads/base_banner_grid-11-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-11-.png",
+          "link": "https://www.jessimake.com.br/ed601---kit-new-universe---macrilan"
         },
         {
-          "img": "/img/uploads/base_banner_grid-8-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-8-.png",
-          "link": "https://www.jessimake.com.br/box-e-kit?page=2"
+          "img": "/img/uploads/base_banner_grid-12-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-12-.png",
+          "link": "https://www.jessimake.com.br/ruby-rose"
         }
       ]
     },
