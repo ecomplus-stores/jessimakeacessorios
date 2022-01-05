@@ -8,7 +8,7 @@
       "slides": [
         {
           "start": "2022-01-05T18:08:05.074Z",
-          "end": "2022-01-01T02:59:09.085Z",
+          "end": "2023-01-01T02:59:09.085Z",
           "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
           "mobile_img": "/img/uploads/frete_gratis_todo_brasil_mobile.png",
           "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
@@ -43,36 +43,11 @@
       "offers": []
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/base_banner_grid-9-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-9-.png",
-          "link": "https://www.jessimake.com.br/kit-star-ed011-macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-10-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-10-.png",
-          "link": "https://www.jessimake.com.br/kit-sweet-ed001-macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-11-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-11-.png",
-          "link": "https://www.jessimake.com.br/ed601---kit-new-universe---macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-12-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-12-.png",
-          "link": "https://www.jessimake.com.br/ruby-rose"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 2,
-      "collection_id": "61950f0e0c7c727225871825:categories:NOVIDADES:/novidades",
+      "collection_id": "61d5decf0c7c727225f3f4a6:categories:NOVIDADES:/novidades",
       "sort": "slug",
       "title": "Produtos que acabaram de chegar",
       "link": "https://www.jessimake.com.br/novidades"
