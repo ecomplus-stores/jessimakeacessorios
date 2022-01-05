@@ -7,11 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-12-08T18:32:41.416Z",
-          "end": "2022-01-01T02:59:23.757Z",
-          "img": "/img/uploads/banner_natal_web.png",
-          "mobile_img": "/img/uploads/banner_natal_mobile.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+          "start": "2022-01-05T18:08:05.074Z",
+          "end": "2022-01-01T02:59:09.085Z",
+          "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
+          "mobile_img": "/img/uploads/frete_gratis_todo_brasil_mobile.png",
+          "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
         },
         {
           "start": "2021-12-14T16:06:41.507Z",
@@ -26,15 +26,9 @@
           "img": "/img/uploads/novo-serum-max-love-3x1.png",
           "mobile_img": "/img/uploads/novo-serum-max-love-3x1-mob.png",
           "link": "https://www.jessimake.com.br/search?term=s%C3%A9rum+3+em+1+max+love+"
-        },
-        {
-          "start": "2021-10-19T18:18:15.171Z",
-          "end": "2022-01-01T02:59:09.085Z",
-          "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
-          "mobile_img": "/img/uploads/frete_gratis_todo_brasil_mobile.png",
-          "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
@@ -74,17 +68,6 @@
       ]
     },
     {
-      "page": 4,
-      "title": "Natal de Ofertas",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/produtos-em-promocao",
-      "limit": 24,
-      "collection_id": "603941b19332dd6865e03630:categories:NATAL DE OFERTAS:/produtos-em-promocao",
-      "sort": "slug"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -93,6 +76,17 @@
       "sort": "slug",
       "title": "Produtos que acabaram de chegar",
       "link": "https://www.jessimake.com.br/novidades"
+    },
+    {
+      "page": 4,
+      "title": "Produtos em promoção",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.jessimake.com.br/produtos-em-promocao",
+      "limit": 24,
+      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/produtos-em-promocao",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
