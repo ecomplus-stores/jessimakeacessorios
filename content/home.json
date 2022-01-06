@@ -50,6 +50,31 @@
       "offers": []
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/base_banner_grid-1-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-1-.png",
+          "link": "https://www.jessimake.com.br/kit-star-ed011-macrilan"
+        },
+        {
+          "img": "/img/uploads/base_banner_grid-2-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-2-.png",
+          "link": "https://www.jessimake.com.br/kit-sweet-ed001-macrilan"
+        },
+        {
+          "img": "/img/uploads/base_banner_grid-3-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-3-.png",
+          "link": "https://www.jessimake.com.br/ed601---kit-new-universe---macrilan"
+        },
+        {
+          "img": "/img/uploads/base_banner_grid-4-.png",
+          "mobile_img": "/img/uploads/base_banner_grid-4-.png",
+          "link": "https://www.jessimake.com.br/ruby-rose"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 20,
@@ -125,31 +150,6 @@
       "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas",
       "sort": "slug",
       "title": "Top Marcas"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/base_banner_grid-1-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-1-.png",
-          "link": "https://www.jessimake.com.br/kit-star-ed011-macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-2-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-2-.png",
-          "link": "https://www.jessimake.com.br/kit-sweet-ed001-macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-3-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-3-.png",
-          "link": "https://www.jessimake.com.br/ed601---kit-new-universe---macrilan"
-        },
-        {
-          "img": "/img/uploads/base_banner_grid-4-.png",
-          "mobile_img": "/img/uploads/base_banner_grid-4-.png",
-          "link": "https://www.jessimake.com.br/ruby-rose"
-        }
-      ]
     }
   ]
 }
