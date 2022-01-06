@@ -116,12 +116,6 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/nova-linha-ruby-skin-protecao-urbana.png",
-      "mobile_img": "/img/uploads/nova-linha-ruby-skin-protecao-urbana-1-.png",
-      "link": "https://www.jessimake.com.br/search?term=prote%C3%A7%C3%A3o+urbana"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -133,10 +127,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/descontos-de-ate-1-.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
-        },
         {
           "img": "/img/uploads/e-rapido-e-seguro-2-.png"
         }
