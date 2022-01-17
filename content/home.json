@@ -7,13 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-01-06T15:20:04.270Z",
-          "end": "2022-01-17T02:59:28.389Z",
-          "img": "/img/uploads/copia-de-saldao_desktop-2-.png",
-          "mobile_img": "/img/uploads/saldao_mobile.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
-        },
-        {
           "start": "2022-01-05T18:08:05.074Z",
           "end": "2023-01-01T02:59:09.085Z",
           "img": "/img/uploads/frete_gratis_todo_brasil_web.png",
@@ -86,13 +79,13 @@
     },
     {
       "page": 4,
-      "title": "Mega Saldão",
+      "title": "Produtos em promoção",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.jessimake.com.br/produtos-em-promocao",
       "limit": 24,
-      "collection_id": "603941b19332dd6865e03630:categories:PRODUTOS EM PROMOÇÃO:/produtos-em-promocao",
+      "collection_id": "603941b19332dd6865e03630:categories:MEGA SALDÃO:/produtos-em-promocao",
       "sort": "slug"
     },
     {
