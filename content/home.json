@@ -63,11 +63,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 24,
       "page": 2,
-      "collection_id": "61ef15107963422eeecf63ca:categories:NOVIDADES:/novidades",
-      "sort": "news",
-      "title": "Acaba de Chegar!",
+      "collection_id": "61f921d57963422eeee201a7:categories:NOVIDADES:/novidades",
+      "sort": "slug",
+      "title": "Acabou de chegar!",
       "link": "https://www.jessimake.com.br/novidades"
     },
     {
