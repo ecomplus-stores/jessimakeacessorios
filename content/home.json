@@ -64,10 +64,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 3,
+      "page": 2,
       "collection_id": "61f921d57963422eeee201a7:categories:NOVIDADES:/novidades",
-      "sort": "slug",
-      "title": "Produtos que acabaram de chegar!",
+      "sort": "news",
+      "title": "Acabou de chegar!",
       "link": "https://www.jessimake.com.br/novidades"
     },
     {
@@ -109,14 +109,6 @@
       "sort": "sales",
       "title": "Mais vendidos",
       "headless": false
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/e-rapido-e-seguro-2-.png"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
