@@ -16,8 +16,8 @@
         {
           "start": "2022-01-28T20:30:07.312Z",
           "end": "2022-02-28T20:28:10.552Z",
-          "img": "/img/uploads/acabou-de-chegar_rr_web-1-.png",
-          "mobile_img": "/img/uploads/acabou-de-chegar_rr_mobile.png",
+          "img": "/img/uploads/acabou-de-chegar_rr_web.png",
+          "mobile_img": "/img/uploads/acabou-de-chegar_rr_mobile-2-.png",
           "link": "https://www.jessimake.com.br/ruby-rose"
         }
       ],
@@ -64,9 +64,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 2,
+      "page": 3,
       "collection_id": "61f921d57963422eeee201a7:categories:NOVIDADES:/novidades",
-      "sort": "news",
+      "sort": "slug",
       "title": "Acabou de chegar!",
       "link": "https://www.jessimake.com.br/novidades"
     },
