@@ -22,10 +22,13 @@
     {
       "type": "offers-timer",
       "max_hours": 48,
-      "start": "2022-02-05T13:52:34.811Z",
-      "end": "2022-02-07T13:00:04.292Z",
+      "start": "2022-02-08T13:36:45.797Z",
+      "end": "2022-02-10T13:40:04.292Z",
       "notes": "Aqui tem promoções todo dia! Não se esqueça de entrar em nosso site todos os dias para conferir as nossas ofertas diárias!",
-      "offers": []
+      "offers": [
+        "603a73ae9332dd6865e13c15",
+        "603a74079332dd6865e13c5e"
+      ]
     },
     {
       "type": "banners-grid",
