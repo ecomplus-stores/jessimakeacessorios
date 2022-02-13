@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Receba ainda hoje sua compra! Saiba mais!",
     "link": "pages/regulamento-de-entrega",
-    "background": "#eb4698"
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
@@ -14,5 +15,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
