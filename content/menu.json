@@ -1,10 +1,10 @@
 {
   "sort_categories": [
-    "black-friday",
     "produtos-em-promocao",
+    "promocao-macrilan",
     "novidades",
-    "box-e-kit",
-    "marcas"
+    "marcas",
+    "box-e-kit"
   ],
   "phone_wpp": false,
   "socials": false,
