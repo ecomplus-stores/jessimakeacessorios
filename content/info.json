@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis em compras acima de R$ 1000,00"
+    "text": "Frete Grátis em compras acima de R$ 1000,00",
+    "link": "https://www.jessimake.com.br/pages/regulamento-de-entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "Parcele em até 3x sem juros",
+    "link": ""
   },
   "exchange": {
     "show": true,
