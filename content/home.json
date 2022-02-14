@@ -70,6 +70,15 @@
       "link": "https://www.jessimake.com.br/novidades"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais vendidos",
+      "headless": false
+    },
+    {
       "page": 4,
       "title": "Produtos em promoção",
       "shuffle": true,
@@ -99,15 +108,6 @@
       "title": "Ruby Rose",
       "headless": false,
       "sort": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais vendidos",
-      "headless": false
     },
     {
       "type": "collection-shelf",
