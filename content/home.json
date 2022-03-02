@@ -25,6 +25,13 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
+        },
+        {
+          "start": "2022-03-02T21:01:46.853Z",
+          "end": "2022-03-08T20:59:17.466Z",
+          "img": "/img/uploads/dia_da_mulher_01_web.png",
+          "mobile_img": "/img/uploads/dia_da_mulher_mobile.png",
+          "link": "https://www.jessimake.com.br/dia-da-mulher"
         }
       ],
       "full_width": true
