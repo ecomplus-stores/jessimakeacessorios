@@ -1,9 +1,9 @@
 {
   "sort_categories": [
+    "meu-primeiro-pedido",
     "produtos-em-promocao",
     "promocao-macrilan",
     "novidades",
-    "marcas",
     "box-e-kit"
   ],
   "phone_wpp": false,
