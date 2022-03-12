@@ -7,17 +7,17 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-03-12T14:29:32.628Z",
+          "end": "2022-03-21T02:59:15.367Z",
+          "img": "/img/uploads/semana_do_consumidor_web.gif",
+          "mobile_img": "/img/uploads/semana_do-consumidor_mob.gif",
+          "link": "https://www.jessimake.com.br/semana-do-consumidor"
+        },
+        {
           "start": "2022-02-05T12:22:31.166Z",
           "end": "2022-12-31T12:21:44.596Z",
           "img": "/img/uploads/frete_gratis_3x_web_2.gif",
           "mobile_img": "/img/uploads/frete_gratis_3x_mobile_2.gif"
-        },
-        {
-          "start": "2022-03-02T21:21:15.964Z",
-          "end": "2022-03-08T20:59:17.466Z",
-          "img": "/img/uploads/dia_da_mulher_web-1-.png",
-          "mobile_img": "/img/uploads/dia_da_mulher_mobile.png",
-          "link": "https://www.jessimake.com.br/dia-da-mulher"
         },
         {
           "start": "2022-03-02T14:45:10.724Z",
@@ -25,13 +25,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-02-10T20:56:35.153Z",
-          "end": "2022-03-10T02:59:15.367Z",
-          "img": "/img/uploads/super_promo_macrilan_01_web.gif",
-          "mobile_img": "/img/uploads/promocao_macrilan_01_mobile.gif",
-          "link": "https://www.jessimake.com.br/promocao-macrilan"
         }
       ],
       "full_width": true
