@@ -87,7 +87,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 2,
       "sort": "sales",
       "title": "Mais vendidos",
       "headless": false
