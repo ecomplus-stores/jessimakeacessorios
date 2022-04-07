@@ -1,11 +1,18 @@
 {
   "sort_categories": [
-    "produtos-em-promocao",
-    "novidades",
-    "meu-primeiro-pedido",
-    "promocao-macrilan",
+    "atacadinho-unidade",
     "box-e-kit",
-    "marcas"
+    "revenda-por-r1000",
+    "combos",
+    "aumente-suas-vendas",
+    "comprou-usou",
+    "marcas",
+    "maquiagem",
+    "linha-facial-skincare",
+    "unhas",
+    "acessorios",
+    "eletronico",
+    "produtos-em-promocao"
   ],
   "alphabetical_order": true,
   "phone_wpp": false,
