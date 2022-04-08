@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-04-08T19:00:23.401Z",
+          "end": "2022-05-25T02:59:23.470Z",
+          "img": "/img/uploads/banner_pascoa_web-1-.png",
+          "mobile_img": "/img/uploads/banner_pascoa_mobile-5-.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2022-03-30T15:53:43.402Z",
           "end": "2022-04-30T15:52:50.396Z",
           "img": "/img/uploads/banner_unhas_web-2-.png",
@@ -25,13 +32,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-04-09T03:00:23.401Z",
-          "end": "2022-05-25T02:59:23.470Z",
-          "img": "/img/uploads/banner_pascoa_web-1-.png",
-          "mobile_img": "/img/uploads/banner_pascoa_mobile-5-.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
