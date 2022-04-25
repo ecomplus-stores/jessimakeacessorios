@@ -69,7 +69,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 22,
       "page": 1,
       "collection_id": "61fe832a7963422eeeebe395:categories:NOVIDADES:/novidades",
       "sort": "news",
