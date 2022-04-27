@@ -7,6 +7,20 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-04-27T15:10:40.070Z",
+          "end": "2022-12-31T15:09:38.503Z",
+          "img": "/img/uploads/banner_base_serum_web.png",
+          "mobile_img": "/img/uploads/banner_base_serum_mobile.png",
+          "link": "https://www.jessimake.com.br/search?term=hb900"
+        },
+        {
+          "start": "2022-04-27T15:07:59.312Z",
+          "end": "2022-12-31T15:08:11.962Z",
+          "img": "/img/uploads/banner_base_fluida_web.png",
+          "mobile_img": "/img/uploads/banner_base_fluida_mobile.png",
+          "link": "https://www.jessimake.com.br/search?term=hb901"
+        },
+        {
           "start": "2022-03-30T15:53:43.402Z",
           "end": "2022-04-30T15:52:50.396Z",
           "img": "/img/uploads/banner_unhas_web-2-.png",
