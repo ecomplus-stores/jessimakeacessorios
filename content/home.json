@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-05-03T15:05:27.595Z",
+          "end": "2022-05-16T14:59:18.296Z",
+          "img": "/img/uploads/banner_maes_desktop.png",
+          "mobile_img": "/img/uploads/banner_maes_mobile.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2022-04-27T15:10:40.070Z",
           "end": "2022-12-31T15:09:38.503Z",
           "img": "/img/uploads/banner_base_serum_web.png",
@@ -32,13 +39,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-05-03T15:05:27.595Z",
-          "end": "2022-05-16T14:59:18.296Z",
-          "img": "/img/uploads/banner_maes_desktop.png",
-          "mobile_img": "/img/uploads/banner_maes_mobile.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
