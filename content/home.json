@@ -105,7 +105,7 @@
       "sort": "sales",
       "title": "Mais vendidos",
       "headless": false,
-      "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas"
+      "collection_id": null
     },
     {
       "page": 4,
