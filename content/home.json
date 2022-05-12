@@ -99,12 +99,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 3,
       "sort": "sales",
       "title": "Mais vendidos",
-      "headless": false
+      "headless": false,
+      "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas"
     },
     {
       "page": 4,
