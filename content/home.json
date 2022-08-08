@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-08-08T19:20:44.169Z",
+          "end": "2022-08-21T02:59:03.127Z",
+          "img": "/img/uploads/banner_ate5_desktop_gif_animado.gif",
+          "mobile_img": "/img/uploads/banner_ate5_mobile_gif_animado.gif",
+          "link": "https://www.jessimake.com.br/promo-loucas-por-maquiagem"
+        },
+        {
           "start": "2022-08-01T21:42:58.820Z",
           "end": "2022-12-31T13:19:44.596Z",
           "img": "/img/uploads/frete_gratis_3x_web_2.gif",
@@ -18,13 +25,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-08-08T19:20:44.169Z",
-          "end": "2022-08-21T02:59:03.127Z",
-          "img": "/img/uploads/banner_ate5_desktop_gif_animado.gif",
-          "mobile_img": "/img/uploads/banner_ate5_mobile_gif_animado.gif",
-          "link": "https://www.jessimake.com.br/promo-loucas-por-maquiagem"
         }
       ],
       "full_width": true
