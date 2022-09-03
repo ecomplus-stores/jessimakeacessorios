@@ -25,6 +25,13 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
+        },
+        {
+          "start": "2022-09-03T12:49:10.119Z",
+          "end": "2022-10-01T02:59:24.144Z",
+          "img": "/img/uploads/derma_chem_desktop.png",
+          "mobile_img": "/img/uploads/derma_chem_mobile.png",
+          "link": "https://www.jessimake.com.br/search?term=S%C3%A9rum+Derma+Chem"
         }
       ],
       "full_width": true
