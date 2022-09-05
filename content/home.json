@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-09-05T18:52:21.773Z",
+          "end": "2022-10-01T02:59:00.000Z",
+          "img": "/img/uploads/banner_derma_chem_desktop.png",
+          "mobile_img": "/img/uploads/banner_derma_chem_mobile.png",
+          "link": "https://www.jessimake.com.br/dermachem"
+        },
+        {
           "start": "2022-09-03T12:49:10.119Z",
           "end": "2022-10-01T02:59:24.144Z",
           "img": "/img/uploads/derma_chem_desktop.png",
