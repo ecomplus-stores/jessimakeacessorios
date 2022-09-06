@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-09-06T20:53:25.784Z",
+          "end": "2022-10-01T02:59:00.000Z",
+          "img": "/img/uploads/super_ofertas_desktop.png",
+          "mobile_img": "/img/uploads/super_ofertas_mobile.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2022-09-05T18:52:21.773Z",
           "end": "2022-10-01T02:59:00.000Z",
           "img": "/img/uploads/banner_derma_chem_desktop.png",
@@ -21,13 +28,6 @@
           "link": "https://www.jessimake.com.br/search?term=S%C3%A9rum+Derma+Chem"
         },
         {
-          "start": "2022-08-23T20:51:20.164Z",
-          "end": "2022-08-31T20:49:58.940Z",
-          "img": "/img/uploads/banner_stayfix_desktop.png",
-          "mobile_img": "/img/uploads/banner_stayfix_mobile-2-.png",
-          "link": "https://www.jessimake.com.br/search?term=Ruby+Rose+Stay+Fix"
-        },
-        {
           "start": "2022-08-01T21:42:58.820Z",
           "end": "2022-12-31T13:19:44.596Z",
           "img": "/img/uploads/frete_gratis_3x_web_2.gif",
@@ -39,13 +39,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-09-06T20:53:25.784Z",
-          "end": "2022-10-01T02:59:00.000Z",
-          "img": "/img/uploads/super_ofertas_desktop.png",
-          "mobile_img": "/img/uploads/super_ofertas_mobile.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
