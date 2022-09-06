@@ -39,6 +39,13 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
+        },
+        {
+          "start": "2022-09-06T20:53:25.784Z",
+          "end": "2022-10-01T02:59:00.000Z",
+          "img": "/img/uploads/super_ofertas_desktop.png",
+          "mobile_img": "/img/uploads/super_ofertas_mobile.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
