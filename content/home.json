@@ -7,18 +7,18 @@
       "autoplay": 4500,
       "slides": [
         {
-          "start": "2022-09-24T12:59:36.547Z",
-          "end": "2022-11-01T02:59:00.000Z",
-          "img": "/img/uploads/promocao_macrilan_desktop.png",
-          "mobile_img": "/img/uploads/promocao_macrilan_mobile.png",
-          "link": "https://www.jessimake.com.br/promocao-macrilan"
-        },
-        {
           "start": "2022-09-08T14:37:24.552Z",
           "end": "2022-10-01T02:59:00.000Z",
           "img": "/img/uploads/super_ofertas_desktop.png",
           "mobile_img": "/img/uploads/super_ofertas_mobile.png",
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
+          "start": "2022-09-24T12:59:36.547Z",
+          "end": "2022-11-01T02:59:00.000Z",
+          "img": "/img/uploads/promocao_macrilan_desktop.png",
+          "mobile_img": "/img/uploads/promocao_macrilan_mobile.png",
+          "link": "https://www.jessimake.com.br/promocao-macrilan"
         },
         {
           "start": "2022-09-05T18:52:21.773Z",
