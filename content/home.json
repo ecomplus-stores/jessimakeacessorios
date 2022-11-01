@@ -105,7 +105,7 @@
       "limit": 24,
       "page": 3,
       "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas",
-      "sort": "slug",
+      "sort": null,
       "title": "Top Marcas"
     },
     {
