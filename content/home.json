@@ -103,9 +103,9 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 3,
       "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas",
-      "sort": "offers",
+      "sort": "slug",
       "title": "Top Marcas"
     },
     {
