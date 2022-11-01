@@ -104,9 +104,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 3,
-      "collection_id": "603927019332dd6865e0141f:categories:MARCAS:/marcas",
+      "collection_id": "624ec8c62e405e04ff2ae7fc:categories:ATACADINHO (UNIDADE):/atacadinho-unidade",
       "sort": null,
-      "title": "Top Marcas"
+      "title": "Top Marcas",
+      "link": "https://www.jessimake.com.br/atacadinho-unidade"
     },
     {
       "type": "banner-slider",
