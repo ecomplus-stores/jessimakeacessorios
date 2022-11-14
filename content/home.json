@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-11-14T00:52:35.812Z",
+          "end": "2022-12-01T03:00:00.000Z",
+          "img": "/img/uploads/banner-jessi-01-blackfriday.png",
+          "link": "https://www.jessimake.com.br/black-friday",
+          "mobile_img": "/img/uploads/banner-jessi-02-blackfriday.png"
+        },
+        {
           "start": "2022-11-11T12:22:15.592Z",
           "end": "2022-11-20T03:00:00.000Z",
           "img": "/img/uploads/black-month-lojista-3-.png",
