@@ -14,6 +14,12 @@
           "mobile_img": "/img/uploads/banner-jessi-02-blackfriday.png"
         },
         {
+          "start": "2022-11-24T15:32:59.101Z",
+          "end": "2022-12-31T15:33:00.346Z",
+          "img": "/img/uploads/compre-e-ganhe-box-1-.png",
+          "mobile_img": "/img/uploads/compre-e-ganhe-box.png"
+        },
+        {
           "start": "2022-11-11T12:22:15.592Z",
           "end": "2022-11-22T18:43:31.424Z",
           "img": "/img/uploads/black-month-lojista-3-.png",
@@ -45,12 +51,6 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
-        },
-        {
-          "start": "2022-11-24T15:32:59.101Z",
-          "end": "2022-12-31T15:33:00.346Z",
-          "img": "/img/uploads/compre-e-ganhe-box-1-.png",
-          "mobile_img": "/img/uploads/compre-e-ganhe-box.png"
         }
       ],
       "full_width": true
