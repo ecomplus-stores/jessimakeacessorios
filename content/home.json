@@ -45,6 +45,12 @@
           "img": "/img/uploads/primeiro_pedido_01_web.gif",
           "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
           "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
+        },
+        {
+          "start": "2022-11-24T15:32:59.101Z",
+          "end": "2022-12-31T15:33:00.346Z",
+          "img": "/img/uploads/compre-e-ganhe-box.png",
+          "mobile_img": "/img/uploads/compre-e-ganhe-box-1-.png"
         }
       ],
       "full_width": true
