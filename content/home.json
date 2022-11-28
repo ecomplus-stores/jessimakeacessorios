@@ -61,11 +61,13 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 48,
-      "start": "2022-02-08T13:36:45.797Z",
-      "end": "2022-02-10T13:40:04.292Z",
-      "notes": "Aqui tem promoções todo dia! Não se esqueça de entrar em nosso site todos os dias para conferir as nossas ofertas diárias!",
-      "offers": []
+      "max_hours": 24,
+      "start": "2022-11-28T17:55:34.020Z",
+      "end": "2022-11-29T17:55:36.307Z",
+      "notes": "Fizemos 1 gol! O BRASIL jogou, o gol saiu e a promoção subiu!",
+      "offers": [
+        "637520ac73321213f8de670a"
+      ]
     },
     {
       "type": "collection-shelf",
