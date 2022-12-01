@@ -7,30 +7,17 @@
       "autoplay": 4500,
       "slides": [
         {
-          "start": "2022-11-14T01:13:19.731Z",
-          "end": "2022-12-01T03:00:00.000Z",
-          "img": "/img/uploads/banner-jessi-01-blackfriday.png",
-          "link": "https://www.jessimake.com.br/black-friday",
-          "mobile_img": "/img/uploads/banner-jessi-02-blackfriday.png"
+          "start": "2022-09-08T14:37:24.552Z",
+          "end": "2023-04-01T01:14:27.063Z",
+          "img": "/img/uploads/copia-de-black-month-lojista.png",
+          "mobile_img": "/img/uploads/copia-de-compre-e-ganhe.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         },
         {
           "start": "2022-11-24T15:32:59.101Z",
           "end": "2022-12-31T15:33:00.346Z",
           "img": "/img/uploads/compre-e-ganhe-box-1-.png",
           "mobile_img": "/img/uploads/compre-e-ganhe-box.png"
-        },
-        {
-          "start": "2022-11-11T12:22:15.592Z",
-          "end": "2022-11-22T18:43:31.424Z",
-          "img": "/img/uploads/black-month-lojista-3-.png",
-          "mobile_img": "/img/uploads/ofertas-imperdiveis-5-.png"
-        },
-        {
-          "start": "2022-09-08T14:37:24.552Z",
-          "end": "2022-11-14T01:14:27.063Z",
-          "img": "/img/uploads/copia-de-black-month-lojista.png",
-          "mobile_img": "/img/uploads/copia-de-compre-e-ganhe.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         },
         {
           "start": "2022-09-05T18:52:21.773Z",
