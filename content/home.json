@@ -7,6 +7,13 @@
       "autoplay": 4500,
       "slides": [
         {
+          "start": "2022-09-08T14:37:24.552Z",
+          "end": "2023-03-31T13:59:56.157Z",
+          "img": "/img/uploads/copia-de-black-month-lojista.png",
+          "mobile_img": "/img/uploads/copia-de-compre-e-ganhe.png",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2022-12-16T19:19:32.492Z",
           "end": "2022-12-19T02:58:37.177Z",
           "img": "/img/uploads/dias-17-e-1812-entregas-via-motoboy-nao-paga-o-frete-1-.png",
@@ -18,13 +25,6 @@
           "img": "/img/uploads/promocao_macrilan_desktop.png",
           "mobile_img": "/img/uploads/promocao_macrilan_mobile.png",
           "link": "https://www.jessimake.com.br/top-beauty"
-        },
-        {
-          "start": "2022-09-08T14:37:24.552Z",
-          "end": "2023-03-31T13:59:56.157Z",
-          "img": "/img/uploads/copia-de-black-month-lojista.png",
-          "mobile_img": "/img/uploads/copia-de-compre-e-ganhe.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         },
         {
           "start": "2022-11-24T15:32:59.101Z",
