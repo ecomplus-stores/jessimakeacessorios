@@ -44,6 +44,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": true,
+    "pix": true,
     "amex": true,
     "itau": true
   },
