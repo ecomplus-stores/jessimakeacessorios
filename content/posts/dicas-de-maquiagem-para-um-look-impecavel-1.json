@@ -18,6 +18,10 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
     }
   ]
 }
