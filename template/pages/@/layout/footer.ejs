@@ -149,7 +149,6 @@ const networksWithColors = [
         <h2 class="footer__title footer__store">
           <%= footer.description.title || _.settings.name %>
         </h2>
-        <p><%- footer.description.text || _.settings.description %></p>
 
         <div class="mt-4 mb-3">
           <p class="footer__payment-methods">
@@ -163,6 +162,9 @@ const networksWithColors = [
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
           </div>
         </div>
+      </div>
+      <div class="col-12">
+        <p><%- footer.description.text || _.settings.description %></p>
       </div>
     </div>
 
