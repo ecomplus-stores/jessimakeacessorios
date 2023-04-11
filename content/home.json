@@ -4,8 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 6000,
       "slides": [
+        {
+          "start": "2023-04-11T19:10:48.088Z",
+          "end": "2023-04-25T02:12:18.376Z",
+          "link": "http://jessimake.com.br/semana-do-batom",
+          "img": "/img/uploads/promo-ski-care-jessi-make-1-1-.png",
+          "mobile_img": "/img/uploads/promo-1-1-.png"
+        },
         {
           "start": "2023-03-01T19:06:37.658Z",
           "end": "2023-06-30T13:08:45.363Z",
