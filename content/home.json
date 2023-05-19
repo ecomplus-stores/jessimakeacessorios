@@ -4,8 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 12000,
+      "autoplay": 24000,
       "slides": [
+        {
+          "start": "2023-05-19T15:15:25.587Z",
+          "end": "2023-10-31T15:15:26.505Z",
+          "img": "/img/uploads/img-20230519-wa0020.jpg",
+          "mobile_img": "/img/uploads/img-20230519-wa0021.jpg",
+          "link": "https://www.jessimake.com.br/kits-revenda"
+        },
         {
           "start": "2022-09-05T18:52:21.773Z",
           "end": "2023-07-01T02:59:00.000Z",
