@@ -16,7 +16,11 @@
       "/atacadinho-unidade?ATACADINHO (UNIDADE)",
       "/kits-revenda?KITS REVENDA",
       "/produtos-em-promocao?SUPER OFERTAS",
-      "/marcas?MARCAS"
+      "/marcas?MARCAS",
+      "/maquiagem?MAQUIAGEM",
+      "/acessorios?ACESSÓRIOS",
+      "/eletronico?ELETRÔNICOS",
+      "/importados?IMPORTADOS"
     ],
     "random": 0,
     "full_width": true
