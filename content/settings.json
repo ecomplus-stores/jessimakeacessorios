@@ -1,13 +1,13 @@
 {
   "domain": "www.jessimake.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0f000f",
+  "primary_color": "#fc2792",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
   },
-  "repository": "ecomplus-stores/jessimakeacessorios",
   "bg_color": "#fc2792",
+  "repository": "ecomplus-stores/jessimakeacessorios",
   "logo": "/img/uploads/logomarca-jessi-maker-transparente-rosa-2-.png",
   "name": "Jessi Make Distribuidora | Fornecedor de Maquiagens no Atacado, Maquiagem no Atacado, Atacadão da Maquiagem, Atacado de Maquiagem.",
   "short_name": "Jessi Make Distribuidora | Fornecedor de Maquiagens no Atacado, Maquiagem no Atacado, Atacadão da Maquiagem, Atacado de Maquiagem.",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/passaro-pink.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#fc2792",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/passaro-pink.png",
   "store_id": 1225,
   "description": "Procurando Fornecedor de Maquiagens no Atacado? Então você acaba de encontrar! Somos a maior Distribuidora de Maquiagem do Norte e Nordeste com sede em Belém do Pará! Possuímos uma vasta quantidade de marcas e temos Frete Grátis para todo o Brasil em Compras acima de R$ 1000,00.\n\nTags:\nDistribuidor de Maquiagem Ruby Rose | Loja de Maquiagem em Atacado | Distribuidor de Maquiagem | Atacado de maquiagem | Distribuidor Max love | Ruby Rose no atacado | Max Love no atacado | Maquiagem para Revenda | Loja de atacado | Ludurana no atacado | Dermachem no atacado | Sombras no atacado | Batons no atacado, | Base no atacado | Delineador no atacado | Boca Rosa no Atacado | Mari Maria no Atacado | Bruna Tavares no Atacado | Maquiagem Ruby Rose |  Ruby Rose Atacado |  Distribuidor Ruby Rose |  Ruby Rose em Atacado | Atacado Ruby Rose | Fornecedor de Maquiagem no Atacado | Melhor Fornecedor de Maquiagem no Atacado Jessi Make Distribuidora | Fornecedor de Maquiagens no Atacado |  Maquiagem no Atacado |  Atacadão da Maquiagem | Atacado de Maquiagem | Atacado de Maquiagem Belém | Atacadão da Maquiagem em São Paulo | Atacadão da Maquiagem Belém | Maquiagem Direto da Fábrica ",
