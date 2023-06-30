@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Quer comprar no VAREJO? Clique aqui!",
     "link": "https://jessimake.com/",
-    "background": "#fc2792",
-    "color": "#ffffff"
+    "background": "#ffffff",
+    "color": "#fc2792"
   },
   "contacts_stripe": {
     "pages": [],
