@@ -12,45 +12,6 @@
           "img": "/img/uploads/kitsdesktop.jpg",
           "mobile_img": "/img/uploads/kitsmobile.jpg",
           "link": "https://www.jessimake.com.br/kits-revenda"
-        },
-        {
-          "start": "2022-09-05T18:52:21.773Z",
-          "end": "2023-08-01T02:59:00.000Z",
-          "img": "/img/uploads/banner_derma_chem_desktop.png",
-          "mobile_img": "/img/uploads/banner_derma_chem_mobile.png",
-          "link": "https://www.jessimake.com.br/dermachem"
-        },
-        {
-          "start": "2023-03-01T19:06:37.658Z",
-          "end": "2023-06-30T13:08:45.363Z",
-          "img": "/img/uploads/copia-de-black-month-lojista.png",
-          "mobile_img": "/img/uploads/copia-de-compre-e-ganhe.png",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
-        },
-        {
-          "start": "2022-12-16T19:19:32.492Z",
-          "end": "2022-12-19T02:58:37.177Z",
-          "img": "/img/uploads/dias-17-e-1812-entregas-via-motoboy-nao-paga-o-frete-1-.png",
-          "mobile_img": "/img/uploads/horas-de.png"
-        },
-        {
-          "start": "2022-11-24T15:32:59.101Z",
-          "end": "2023-04-13T01:12:07.400Z",
-          "img": "/img/uploads/compre-e-ganhe-box-1-.png",
-          "mobile_img": "/img/uploads/compre-e-ganhe-box.png"
-        },
-        {
-          "start": "2022-08-01T21:42:58.820Z",
-          "end": "2023-05-31T13:19:44.596Z",
-          "img": "/img/uploads/frete_gratis_3x_web_2.gif",
-          "mobile_img": "/img/uploads/frete_gratis_3x_mobile_2.gif"
-        },
-        {
-          "start": "2022-03-02T14:45:10.724Z",
-          "end": "2023-05-23T12:30:20.359Z",
-          "img": "/img/uploads/primeiro_pedido_01_web.gif",
-          "mobile_img": "/img/uploads/pirmeira_compra_01_mobile.gif",
-          "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
         }
       ],
       "full_width": true
