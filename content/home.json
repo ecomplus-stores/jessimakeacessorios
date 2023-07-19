@@ -21,6 +21,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/alto_atacado.webp",
+          "link": "https://www.jessimake.com.br/box-e-kit-de-maquiagens-no-atacado"
+        },
+        {
+          "img": "/img/uploads/super_ofertas.webp",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
+          "img": "/img/uploads/novidades.webp",
+          "link": "https://www.jessimake.com.br/novidades"
+        }
+      ]
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-11-28T17:55:34.020Z",
