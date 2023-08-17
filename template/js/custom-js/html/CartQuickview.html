@@ -8,6 +8,14 @@
     <button class="close" @click="toggleAdd()"></button>
     <strong>Produto adicionado ao seu carrinho!</strong>
     <p>O que você deseja fazer a seguir?</p>
+    <div class="row" v-if="free_shipping && free_shipping > 0">
+      <div class="aviso freeShipping" v-if="cart.subtotal < free_shipping">
+        Adicione <b>+{{ lessFreeShipping() }}</b> no carrinho para ganhar frete grátis
+      </div>
+      <div class="aviso freeShipping"  v-else>
+        Este pedido terá <b>frete grátis</b>!
+      </div>
+  </div>
     <div class="row">
         <div class="aviso" v-if="cart.subtotal < min_subtotal">
           Faltam <b>{{ lessUnit() }}</b> no carrinho para finalizar a compra
@@ -16,6 +24,7 @@
           Você já <b>completou</b> o <b>Pedido Mínimo</b>, continue e <b>finalize a compra</b>, ou <b>continue comprando</b>!
         </div>
     </div>
+    
     <div class="row functions justify-content-center align-items-center d-flex">
         <div class="col-md-6 col-12">
             <button class="btn" @click="toggleAdd()">Continuar Comprando</button>

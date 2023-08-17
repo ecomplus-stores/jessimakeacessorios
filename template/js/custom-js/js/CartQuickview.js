@@ -61,6 +61,7 @@ import {
       return {
         selectedShippingPrice: 0,
         min_subtotal: 150,
+        free_shipping: 1000,
         toggleAddVisible:false,
       }
     },
@@ -93,6 +94,10 @@ import {
       lessUnit(){
         
         return (this.min_subtotal - this.cart.subtotal).toLocaleString('pt-br', {style: 'currency',currency: 'BRL', minimumFractionDigits: 2}) 
+      },
+      lessFreeShipping(){
+        
+        return (this.free_shipping - this.cart.subtotal).toLocaleString('pt-br', {style: 'currency',currency: 'BRL', minimumFractionDigits: 2}) 
       },
   
       toggle (isVisible) {
