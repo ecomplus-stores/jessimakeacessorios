@@ -26,6 +26,13 @@
           "img": "/img/uploads/quem-somos_jessi-desktop.webp",
           "mobile_img": "/img/uploads/quem-somos_jessi-mobile.webp",
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
+          "start": "2023-09-01T22:21:15.389Z",
+          "end": "2023-09-30T03:00:00.000Z",
+          "img": "/img/uploads/compre-e-ganhe-d.jpg",
+          "mobile_img": "/img/uploads/compre-e-ganhe-m.jpg",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
