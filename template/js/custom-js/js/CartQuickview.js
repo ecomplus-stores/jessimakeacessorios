@@ -60,7 +60,7 @@ import {
     data () {
       return {
         selectedShippingPrice: 0,
-        min_subtotal: 150,
+        min_subtotal: window.valorminimo || 100,
         free_shipping: 1000,
         toggleAddVisible:false,
       }
