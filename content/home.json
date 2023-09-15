@@ -7,6 +7,13 @@
       "autoplay": 24000,
       "slides": [
         {
+          "start": "2023-09-14T20:43:26.281Z",
+          "end": "2023-09-18T01:59:27.388Z",
+          "img": "/img/uploads/cliente-feliz-desktop.jpg",
+          "mobile_img": "/img/uploads/cliente-feliz-mobile.jpg",
+          "link": "https://www.jessimake.com.br/dia-do-cliente"
+        },
+        {
           "start": "2023-08-30T02:59:00.000Z",
           "end": "2023-09-10T10:16:54.503Z",
           "img": "/img/uploads/semana-do-brasil-jessi-make-d.jpg",
@@ -33,13 +40,6 @@
           "img": "/img/uploads/quem-somos_jessi-desktop.webp",
           "mobile_img": "/img/uploads/quem-somos_jessi-mobile.webp",
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
-        },
-        {
-          "start": "2023-09-14T20:43:26.281Z",
-          "end": "2023-09-18T01:59:27.388Z",
-          "img": "/img/uploads/cliente-feliz-desktop.jpg",
-          "mobile_img": "/img/uploads/cliente-feliz-mobile.jpg",
-          "link": "https://www.jessimake.com.br/dia-do-cliente"
         }
       ],
       "full_width": true
