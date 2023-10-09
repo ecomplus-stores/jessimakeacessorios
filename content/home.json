@@ -7,6 +7,13 @@
       "autoplay": 24000,
       "slides": [
         {
+          "start": "2023-10-09T12:54:31.605Z",
+          "end": "2023-12-09T12:54:00.000Z",
+          "link": "https://www.jessimake.com.br/essencia-da-mulher",
+          "img": "/img/uploads/essencia-da-mulher-grande.jpg",
+          "mobile_img": "/img/uploads/essencia-da-mulher-celular.jpg"
+        },
+        {
           "start": "2023-09-27T13:26:57.573Z",
           "end": "2023-10-02T02:59:02.043Z",
           "img": "/img/uploads/alto-atacado-desktop.png",
@@ -47,13 +54,6 @@
           "img": "/img/uploads/quem-somos_jessi-desktop.webp",
           "mobile_img": "/img/uploads/quem-somos_jessi-mobile.webp",
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
-        },
-        {
-          "start": "2023-10-09T12:54:31.605Z",
-          "end": "2023-12-09T12:54:00.000Z",
-          "link": "https://www.jessimake.com.br/essencia-da-mulher",
-          "img": "/img/uploads/essencia-da-mulher-grande.jpg",
-          "mobile_img": "/img/uploads/essencia-da-mulher-celular.jpg"
         }
       ],
       "full_width": true
