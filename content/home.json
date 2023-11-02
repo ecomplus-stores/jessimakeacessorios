@@ -7,6 +7,13 @@
       "autoplay": 24000,
       "slides": [
         {
+          "start": "2023-07-28T19:17:52.642Z",
+          "end": "",
+          "img": "/img/uploads/quem-somos_jessi-desktop.webp",
+          "mobile_img": "/img/uploads/quem-somos_jessi-mobile.webp",
+          "link": "https://www.jessimake.com.br/produtos-em-promocao"
+        },
+        {
           "start": "2023-10-09T12:54:31.605Z",
           "end": "2023-12-09T12:54:00.000Z",
           "link": "https://www.jessimake.com.br/essencia-da-mulher",
@@ -47,13 +54,6 @@
           "img": "/img/uploads/banner-kits-desktop.webp",
           "mobile_img": "/img/uploads/baner-kits-mobile.webp",
           "link": "https://www.jessimake.com.br/kits-revenda"
-        },
-        {
-          "start": "2023-07-28T19:17:52.642Z",
-          "end": "",
-          "img": "/img/uploads/quem-somos_jessi-desktop.webp",
-          "mobile_img": "/img/uploads/quem-somos_jessi-mobile.webp",
-          "link": "https://www.jessimake.com.br/produtos-em-promocao"
         }
       ],
       "full_width": true
