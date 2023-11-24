@@ -7,7 +7,7 @@
       "autoplay": 47000,
       "slides": [
         {
-          "start": "2023-11-24T00:59:55.797Z",
+          "start": "2023-11-24T06:20:48.031Z",
           "end": "2023-11-26T03:02:16.227Z",
           "link": "https://www.jessimake.com.br/black-friday",
           "mobile_img": "/img/uploads/banner-jessica-blackfriday-2023-celular.jpg",
@@ -21,18 +21,18 @@
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
         },
         {
-          "start": "2023-10-09T12:54:31.605Z",
-          "end": "2023-12-09T12:54:00.000Z",
-          "link": "https://www.jessimake.com.br/essencia-da-mulher",
-          "img": "/img/uploads/essencia-da-mulher-grande.jpg",
-          "mobile_img": "/img/uploads/essencia-da-mulher-celular-2.jpg"
-        },
-        {
           "start": "2023-09-27T13:26:57.573Z",
           "end": "2023-10-02T02:59:02.043Z",
           "img": "/img/uploads/alto-atacado-desktop.png",
           "mobile_img": "/img/uploads/alto-atacado-mobile.png",
           "link": "https://www.jessimake.com.br/box-e-kit-de-maquiagens-no-atacado"
+        },
+        {
+          "start": "2023-10-09T12:54:31.605Z",
+          "end": "2023-12-09T12:54:00.000Z",
+          "link": "https://www.jessimake.com.br/essencia-da-mulher",
+          "img": "/img/uploads/essencia-da-mulher-grande.jpg",
+          "mobile_img": "/img/uploads/essencia-da-mulher-celular-2.jpg"
         },
         {
           "start": "2023-09-14T20:43:26.281Z",
