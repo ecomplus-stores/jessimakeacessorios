@@ -4,8 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 24000,
+      "autoplay": 47000,
       "slides": [
+        {
+          "start": "2023-11-24T02:58:14.737Z",
+          "end": "2023-11-26T03:02:16.227Z",
+          "link": "https://www.jessimake.com.br/black-friday",
+          "mobile_img": "/img/uploads/banner-jessica-blackfriday-2023-celular.jpg",
+          "img": "/img/uploads/banner-jessica-blackfriday-2023.jpg"
+        },
         {
           "start": "2023-07-28T19:17:52.642Z",
           "end": "",
