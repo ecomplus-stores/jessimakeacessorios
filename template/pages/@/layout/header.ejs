@@ -192,7 +192,7 @@ const hasAllDepartments = header.menu_all_departments
         const searchColSize = !isCategoriesNavFull && categories.length ? '-3' : ''
         %>
         <div
-          class="d-lg-block col-12 col-lg<%= searchColSize %> collapse show"
+          class="d-none d-lg-block col-12 col-lg<%= searchColSize %> collapse show"
           id="search-bar"
         >
           <form
@@ -214,7 +214,7 @@ const hasAllDepartments = header.menu_all_departments
               class="header__search-btn"
               aria-label="<%= _.dictionary('searchProducts') %>"
             >
-              <i class="i-search"></i>
+              <i class="fas fa-search"></i>
             </button>
             <div id="instant-search">
               <!--

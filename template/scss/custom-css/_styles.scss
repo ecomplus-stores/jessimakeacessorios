@@ -223,9 +223,10 @@ background-color: #000 !important;
 .products-carousel__item {
 border: 1px solid
 }
-@media(max-width: 480px) {
+@media (max-width: 575.98px) {
   #search-bar {
     display: block !important;
+    transition: none;
   }
 }
 
