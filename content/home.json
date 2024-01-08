@@ -7,6 +7,13 @@
       "autoplay": 47000,
       "slides": [
         {
+          "start": "2024-01-08T10:55:12.961Z",
+          "end": "2024-01-31T03:00:00.000Z",
+          "img": "/img/uploads/banner-jessica-mega-saldao-2024.jpg",
+          "mobile_img": "/img/uploads/banner-jessica-mega-saldao-2024-celular.jpg",
+          "link": "https://www.jessimake.com.br/mega-saldao"
+        },
+        {
           "start": "2023-07-28T19:17:52.642Z",
           "end": "",
           "img": "/img/uploads/quem-somos_jessi-desktop.webp",
