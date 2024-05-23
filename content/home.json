@@ -7,6 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2024-05-24T03:01:00.000Z",
+          "end": "2024-05-26T02:59:00.000Z",
+          "img": "/img/uploads/banner-computador.png",
+          "mobile_img": "/img/uploads/baner-celular.png"
+        },
+        {
           "start": "2024-05-14T20:18:48.510Z",
           "end": "2025-05-14T20:18:00.000Z",
           "img": "/img/uploads/92ecc18b-8590-43a6-bc16-0e2a7d0c2f15.jpg",
