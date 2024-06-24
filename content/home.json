@@ -69,14 +69,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-28T17:55:34.020Z",
-      "end": "2022-11-28T17:55:36.307Z",
-      "notes": "Fizemos 1 gol! O BRASIL jogou, o gol saiu e a promoção subiu!",
-      "offers": []
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
