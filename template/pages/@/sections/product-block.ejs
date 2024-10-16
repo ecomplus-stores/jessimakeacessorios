@@ -6,6 +6,7 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
 }
 
 const { width, height, length } = _.state.dimensions;
+const { weight } = _.state
 %>
 
 <div id="product-block" class="product-block my-4 mb-lg-5">
@@ -184,8 +185,18 @@ const { width, height, length } = _.state.dimensions;
           <% if (width && length && height) { 
             const dim = `Altura: ${height.value} ${height.unit}; Largura ${width.value} ${width.unit}; Comprimento ${length.value} ${length.unit}`;
             %>
-            <span>
+            <br>
+            <span id="dimensoes">
               Dimensões: <%= dim %>
+            </span>
+          <% } %>
+
+          <% if (weight) { 
+            const wei = `Peso: ${weight.value} ${weight.unit}`;
+            %>
+            <br>
+            <span id="peso">
+              Peso: <%= wei %>
             </span>
           <% } %>
 
