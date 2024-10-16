@@ -4,6 +4,8 @@ let stampsList
 if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
   stampsList = stamps.stamps_list
 }
+
+const { width, height, length } = _.state.dimensions;
 %>
 
 <div id="product-block" class="product-block my-4 mb-lg-5">
@@ -178,6 +180,14 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
               </div>
             </div>
           </div>
+
+          <% if (width && length && height) { 
+            const dim = `Altura: ${height.value} ${height.unit}; Largura ${width.value} ${width.unit}; Comprimento ${length.value} ${length.unit}`;
+            %>
+            <span>
+              Dimensões: <%= dim %>
+            </span>
+          <% } %>
 
           <% if (_.state.short_description) { %>
             <p class="product__info mt-3 lead">
