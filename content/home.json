@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2025-01-14T13:13:08.968Z",
+          "end": "2025-02-01T13:13:10.099Z",
+          "img": "/img/uploads/81ec8686-a3f5-4a15-a221-1bcc3c18e432.jpg",
+          "mobile_img": "/img/uploads/4bbdd6f7-ec8e-4010-9ac9-c674c8bf6012.jpg",
+          "link": "https://www.jessimake.com.br/saldao-janeiro"
+        },
+        {
           "start": "2024-10-05T23:15:52.959Z",
           "end": "2024-12-31T23:15:53.491Z",
           "img": "/img/uploads/banner-computador-1-.gif",
