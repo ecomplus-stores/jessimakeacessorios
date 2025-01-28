@@ -205,6 +205,14 @@ const { weight } = _.state
               <%= _.state.short_description %>
             </p>
           <% } %>
+
+          <!-- Código de Barras (GTIN) -->
+          <% if (_.state.gtin && _.state.gtin[0]) { %>
+            <div class="product-barcode">
+              <label for="barcode">Código de Barras:</label>
+              <span id="barcode"><%= _.state.gtin[0] %></span>
+            </div>
+          <% } %>
         </div>
       </div>
 
