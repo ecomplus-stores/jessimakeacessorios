@@ -396,3 +396,11 @@ border: 1px solid
     }
   }
 }
+.product-barcode {
+  font-size: 14px;
+  color: #333;
+  margin-top: 10px;
+}
+.product-barcode #barcode {
+  font-weight: bold;
+}
