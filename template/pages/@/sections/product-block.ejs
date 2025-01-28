@@ -206,8 +206,9 @@ const { weight } = _.state
             </p>
           <% } %>
 
-          <!-- Código de Barras (GTIN) -->
+          <!-- Código de Barras (GTIN) após as dimensões -->
           <% if (_.state.gtin && _.state.gtin[0]) { %>
+            <br>
             <div class="product-barcode">
               <label for="barcode">Código de Barras:</label>
               <span id="barcode"><%= _.state.gtin[0] %></span>
