@@ -130,13 +130,13 @@
     },
     {
       "page": "",
-      "title": "Produtos em promoção  ",
+      "title": "BOX E KIT",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/produtos-em-promocao",
+      "link": "https://www.jessimake.com.br/box-e-kit-de-maquiagens-no-atacado",
       "limit": 24,
-      "collection_id": "65f1e80e87ab487fbfe41275:categories:PARA ZERAR O ESTOQUE:/para-zerar-o-estoque",
+      "collection_id": "603cdfa49332dd6865e2a4d1:categories:ALTO ATACADO:/box-e-kit-de-maquiagens-no-atacado",
       "sort": "sales"
     },
     {
