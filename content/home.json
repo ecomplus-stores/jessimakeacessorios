@@ -119,8 +119,8 @@
     },
     {
       "page": 1,
-      "title": "Novidades ",
-      "shuffle": true,
+      "title": "Novidades",
+      "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.jessimake.com.br/novidades",
