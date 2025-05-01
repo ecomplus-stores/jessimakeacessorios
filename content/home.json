@@ -130,6 +130,16 @@
       "sort": "sales"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "603cd4309332dd6865e29c12:categories:DERMACHEM:/dermachem",
+      "sort": "sales",
+      "title": "Derma Chem -  Novos Preços",
+      "link": "https://www.jessimake.com.br/dermachem"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
