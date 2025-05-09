@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2025-05-09T23:40:50.367Z",
+          "end": "2025-05-12T04:40:51.909Z",
+          "img": "/img/uploads/pc-maes.jpg",
+          "mobile_img": "/img/uploads/celular-mae.jpg",
+          "link": "https://www.jessimake.com.br/promo"
+        },
+        {
           "start": "2025-05-01T20:02:05.603Z",
           "end": "2025-09-19T20:02:06.548Z",
           "img": "/img/uploads/banner_derma_chem_desktop.png",
@@ -47,13 +54,6 @@
           "link": "https://www.jessimake.com.br/essencia-da-mulher",
           "img": "/img/uploads/essencia-da-mulher-grande.jpg",
           "mobile_img": "/img/uploads/essencia-da-mulher-celular-2.jpg"
-        },
-        {
-          "start": "2023-08-30T02:59:00.000Z",
-          "end": "2023-09-10T10:16:54.503Z",
-          "img": "/img/uploads/semana-do-brasil-jessi-make-d.jpg",
-          "mobile_img": "/img/uploads/semana-do-brasil-m.jpg",
-          "link": "https://www.jessimake.com.br/semana-do-brasil"
         },
         {
           "start": "2023-05-19T15:15:25.587Z",
