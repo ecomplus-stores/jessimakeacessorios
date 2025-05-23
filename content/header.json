@@ -12,6 +12,7 @@
   },
   "categories_list": {
     "featured": [
+      "/novidades?NOVIDADES",
       "/produtos-em-promocao?SUPER OFERTAS",
       "/box-e-kit-de-maquiagens-no-atacado?ALTO ATACADO",
       "/kits-revenda?KITS REVENDA",
@@ -21,15 +22,13 @@
       "/acessorios-para-maquiagem?ACESSÓRIOS",
       "/linha-facial-skincare?SKINCARE",
       "/unhas?UNHAS",
-      "/novidades?NOVIDADES",
-      "/aumente-suas-vendas?AUMENTE SUAS VENDAS",
       "/combos?COMBOS",
       "/kit-de-pinceis?KIT DE PINCÉIS",
       "/eletronico?ELETRÔNICOS",
       "/meu-primeiro-pedido?MEU PRIMEIRO PEDIDO",
-      "/e-books?E-BOOKS",
       "/oleo-corporal?PRODUTOS CORPORAIS",
-      "/revenda-por-r1000?REVENDA POR R$10,00"
+      "/revenda-por-r1000?REVENDA POR R$10,00",
+      "/e-books?E-BOOKS"
     ],
     "random": 0,
     "full_width": true
