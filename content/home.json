@@ -55,6 +55,15 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "68b03f91578b5f795497a72d:categories:SEMANA DA INDEPENDÊNCIA:/semana-da-independencia",
+      "sort": "sales",
+      "title": "Promoção Semana da Independência"
+    },
+    {
       "page": 1,
       "title": "Novidades ",
       "shuffle": false,
