@@ -49,15 +49,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "68b03f91578b5f795497a72d:categories:SEMANA DA INDEPENDÊNCIA:/semana-da-independencia",
-      "sort": "sales",
-      "title": "Promoção Semana da Independência"
-    },
-    {
       "page": 1,
       "title": "Novidades ",
       "shuffle": false,
@@ -102,7 +93,7 @@
       "limit": 24,
       "page": "",
       "collection_id": "61e9719f0c7c72722518d0f6:categories:SUPER OFERTAS:/produtos-em-promocao",
-      "sort": "offers",
+      "sort": "views",
       "title": "Super Ofertas ",
       "link": "https://www.jessimake.com.br/produtos-em-promocao"
     },
