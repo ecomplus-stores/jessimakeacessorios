@@ -1,5 +1,6 @@
 {
   "sort_categories": [
+    "black-friday-revendedores",
     "novidades",
     "produtos-em-promocao",
     "box-e-kit-de-maquiagens-no-atacado",
@@ -15,8 +16,7 @@
     "kit-de-pinceis",
     "unhas",
     "eletronico",
-    "aumente-suas-vendas",
-    "semana-da-independencia"
+    "aumente-suas-vendas"
   ],
   "alphabetical_order": true,
   "phone_wpp": false,
