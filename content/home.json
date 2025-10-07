@@ -7,6 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2025-10-07T12:49:15.668Z",
+          "end": "2025-10-27T12:49:16.330Z",
+          "img": "/img/uploads/1ee376d4-d79d-4db7-a383-62fdffc948a4.jpg",
+          "link": "https://www.jessimake.com.br/black-friday-revendedores"
+        },
+        {
           "start": "2025-09-30T13:09:35.824Z",
           "end": "2025-12-31T13:09:36.391Z",
           "img": "/img/uploads/1000766366.jpg",
@@ -14,7 +20,7 @@
         },
         {
           "start": "2025-09-18T11:03:19.207Z",
-          "end": "2025-11-30T11:12:16.175Z",
+          "end": "2025-10-07T12:48:41.571Z",
           "img": "/img/uploads/copia-de-black-month-lojista.png",
           "mobile_img": "",
           "link": "https://www.jessimake.com.br/produtos-em-promocao"
@@ -42,7 +48,7 @@
         },
         {
           "start": "2023-05-19T15:15:25.587Z",
-          "end": "2025-06-17T21:02:44.677Z",
+          "end": "2025-10-07T12:48:51.460Z",
           "img": "/img/uploads/banner-kits-desktop.webp",
           "mobile_img": "/img/uploads/banner-kits-desktop.webp",
           "link": "https://www.jessimake.com.br/kits-revenda"
