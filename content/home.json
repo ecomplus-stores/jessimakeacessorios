@@ -61,6 +61,17 @@
       "enabled": true
     },
     {
+      "autoplay": 5000,
+      "page": 1,
+      "title": "BLACK FRIDAY",
+      "shuffle": true,
+      "type": "collection-shelf",
+      "link": "https://www.jessimake.com.br/black-friday-2025",
+      "limit": 24,
+      "collection_id": "691dca97c650040a8c3e34e0:categories:BLACK FRIDAY 2025:/black-friday-2025",
+      "sort": "views"
+    },
+    {
       "page": 1,
       "title": "Novidades ",
       "shuffle": false,
