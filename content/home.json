@@ -61,7 +61,7 @@
       "enabled": true
     },
     {
-      "autoplay": 5000,
+      "autoplay": "",
       "page": 1,
       "title": "BLACK FRIDAY",
       "shuffle": true,
