@@ -1,6 +1,9 @@
 // Add your custom JavaScript for checkout here.
 storefront.on('widget:@ecomplus/widget-tag-manager', function () {
-  // Inserir checkbox antes do botão
+
+  const btn = document.querySelector('.cart__btn-checkout')
+  btn.classList.add('disabled')
+
   document.querySelector('.cart__btn-checkout').insertAdjacentHTML('beforebegin', `
     <div id="block-confirm" class="form-group">
       <div class="custom-control custom-checkbox">
@@ -13,16 +16,13 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
     </div>
   `)
 
-  // Desabilita o botão até aceitar
-  const btn = document.querySelector('.cart__btn-checkout')
-  btn.setAttribute('disabled', true)
-
-  // Habilita quando marcado
   document.querySelector('#input-confirm-checkout').addEventListener('change', function () {
     if (this.checked) {
-      btn.removeAttribute('disabled')
+      btn.classList.remove('disabled')
     } else {
-      btn.setAttribute('disabled', true)
+      btn.classList.add('disabled')
     }
   })
+
 })
+
