@@ -401,6 +401,6 @@ border: 1px solid
   font-family: 'Marcellus', serif;
   margin-top: 10px;
 }
-.minicart__btn-checkout, .cart__btn-checkout {
-    display: none;
+.cart__btn-checkout.disabled {
+  display: none;
 }
