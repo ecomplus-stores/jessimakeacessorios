@@ -1,10 +1,15 @@
-// Add your custom JavaScript for checkout here.
 storefront.on('widget:@ecomplus/widget-tag-manager', function () {
-
   const btn = document.querySelector('.cart__btn-checkout')
+  if (!btn) {
+    console.warn('Botão de checkout não encontrado — verifique classe ou template')
+    return
+  }
+
+  // Adiciona classe para desabilitar clique por padrão
   btn.classList.add('disabled')
 
-  document.querySelector('.cart__btn-checkout').insertAdjacentHTML('beforebegin', `
+  // Insere o bloco de aceite antes do botão
+  btn.insertAdjacentHTML('beforebegin', `
     <div id="block-confirm" class="form-group">
       <div class="custom-control custom-checkbox">
         <input type="checkbox" id="input-confirm-checkout" class="custom-control-input">
@@ -23,6 +28,4 @@ storefront.on('widget:@ecomplus/widget-tag-manager', function () {
       btn.classList.add('disabled')
     }
   })
-
 })
-
