@@ -402,5 +402,7 @@ border: 1px solid
   margin-top: 10px;
 }
 .cart__btn-checkout.disabled {
-  display: none;
+  opacity: .5;
+  pointer-events: none;
+  cursor: not-allowed;
 }
