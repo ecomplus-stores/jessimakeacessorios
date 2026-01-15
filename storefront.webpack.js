@@ -7,6 +7,7 @@ module.exports = () => ({
       './js/ProductCard.js': path.resolve(__dirname, 'template/js/custom-js/js/ProductCard.js'),
       './html/CartQuickview.html': path.resolve(__dirname, 'template/js/custom-js/html/CartQuickview.html'),
       './js/CartQuickview.js': path.resolve(__dirname, 'template/js/custom-js/js/CartQuickview.js'),
+      './html/AccountForm.html': path.resolve(__dirname, 'template/js/custom-js/html/AccountForm.html'),
 
     }
   }
