@@ -61,17 +61,6 @@
       "enabled": true
     },
     {
-      "autoplay": "",
-      "page": 1,
-      "title": "Mega Janeiro",
-      "shuffle": true,
-      "type": "collection-shelf",
-      "link": "https://www.jessimake.com.br/mega-janeiro",
-      "limit": 24,
-      "collection_id": "695e49fac650040a8c732faf:categories:MEGA JANEIRO:/mega-janeiro",
-      "sort": "views"
-    },
-    {
       "page": 1,
       "title": "Novidades",
       "shuffle": false,
