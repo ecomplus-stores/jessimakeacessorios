@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Pedido Mínimo R$ 100,00! Quer comprar no VAREJO? Clique aqui!",
-    "link": "https://jessimake.com/",
+    "text": "Pedido Mínimo R$ 100,00!",
+    "link": "",
     "background": "#000000",
     "color": "#ffffff"
   },
