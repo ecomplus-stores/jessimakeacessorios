@@ -61,6 +61,17 @@
       "enabled": true
     },
     {
+      "autoplay": "",
+      "page": 1,
+      "title": "Quinzena de Ofertas",
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "Quinzena de Ofertas",
+      "limit": 24,
+      "collection_id": "69de23aba250b50298ae5385:categories:QUINZENA DE OFERTAS:/quinzena-de-ofertas",
+      "sort": "sales"
+    },
+    {
       "page": 1,
       "title": "Novidades ",
       "shuffle": false,
