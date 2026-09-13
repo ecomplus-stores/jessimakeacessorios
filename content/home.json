@@ -59,6 +59,16 @@
       "full_width": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6aa3f027568e833125335709:categories:72h + FRETE GRÁTIS*:/72h--frete-gratis",
+      "title": "72h de Promoção + FRETE GRÁTIS Motoboy",
+      "sort": "views",
+      "link": "https://www.jessimake.com.br/72h--frete-gratis"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
