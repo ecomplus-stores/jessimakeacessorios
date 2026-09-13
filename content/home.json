@@ -7,7 +7,7 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2026-09-12T18:19:46.028Z",
+          "start": "2026-09-13T10:54:46.013Z",
           "end": "2026-09-16T02:19:16.204Z",
           "img": "/img/uploads/computador-2-.jpg",
           "link": "https://www.jessimake.com.br/72h--frete-gratis",
@@ -28,13 +28,6 @@
           "mobile_img": "/img/uploads/banner-celular.jpg"
         },
         {
-          "start": "2026-09-12T19:31:13.504Z",
-          "end": "2026-09-16T20:37:59.331Z",
-          "mobile_img": "/img/uploads/celularr.jpg",
-          "link": "https://chat.whatsapp.com/JwW7nG2lB8lGlmOmjRpUKT",
-          "img": "/img/uploads/computador-2-.jpg"
-        },
-        {
           "start": "2025-07-11T13:14:52.971Z",
           "end": "2025-11-29T12:13:45.011Z",
           "img": "/img/uploads/quem-somos_jessi-desktop.webp",
@@ -47,13 +40,6 @@
           "link": "https://www.jessimake.com.br/essencia-da-mulher",
           "img": "/img/uploads/essencia-da-mulher-grande.jpg",
           "mobile_img": "/img/uploads/essencia-da-mulher-celular-2.jpg"
-        },
-        {
-          "start": "2025-11-28T11:10:36.267Z",
-          "end": "2026-05-27T19:51:15.778Z",
-          "img": "/img/uploads/dd28080b-7629-4c00-985c-90e3a2fab3b6.jpg",
-          "mobile_img": "",
-          "link": "https://www.jessimake.com.br/aumente-suas-vendas"
         }
       ],
       "full_width": true
