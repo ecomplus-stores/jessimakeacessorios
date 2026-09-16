@@ -7,13 +7,6 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2026-09-13T10:54:46.013Z",
-          "end": "2026-09-16T02:19:16.204Z",
-          "img": "/img/uploads/computador-2-.jpg",
-          "link": "https://www.jessimake.com.br/72h--frete-gratis",
-          "mobile_img": "/img/uploads/celularr.jpg"
-        },
-        {
           "start": "2026-07-01T00:26:35.353Z",
           "end": "2027-03-31T19:49:59.667Z",
           "img": "/img/uploads/banner_1600x500.jpg",
@@ -47,16 +40,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "6aa3f027568e833125335709:categories:72h + FRETE GRÁTIS*:/72h--frete-gratis",
-      "title": "72h de Promoção + FRETE GRÁTIS Motoboy",
-      "sort": "sales",
-      "link": "https://www.jessimake.com.br/72h--frete-gratis"
     },
     {
       "page": 1,
