@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2026-09-28T23:47:27.790Z",
+          "end": "2026-09-30T23:47:28.753Z",
+          "img": "/img/uploads/banner-pc.jpg",
+          "mobile_img": "/img/uploads/bass.jpg",
+          "link": "https://www.jessimake.com.br/24-horas-de-promocao"
+        },
+        {
           "start": "2026-07-01T00:26:35.353Z",
           "end": "2027-03-31T19:49:59.667Z",
           "img": "/img/uploads/banner_1600x500.jpg",
