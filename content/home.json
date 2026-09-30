@@ -10,7 +10,9 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-pc.jpg",
-          "mobile_img": "/img/uploads/celular24.jpg"
+          "mobile_img": "/img/uploads/celular24.jpg",
+          "link": "https://www.jessimake.com.br/ruby-rose",
+          "alt": " "
         },
         {
           "start": "2026-07-01T00:26:35.353Z",
