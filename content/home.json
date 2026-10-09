@@ -42,6 +42,16 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "6ac7cc68568e833125444ba8:categories:FESTIVAL ROSA:/festival-rosa",
+      "sort": "views",
+      "title": "PROMOÇÃO FESTIVAL ROSA",
+      "link": "https://www.jessimake.com.br/festival-rosa"
+    },
+    {
       "page": 1,
       "title": "Novidades ",
       "shuffle": false,
