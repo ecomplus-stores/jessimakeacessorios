@@ -7,6 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2026-10-28T19:08:48.104Z",
+          "end": "2026-11-01T19:08:48.935Z",
+          "img": "/img/uploads/pc0101.jpg",
+          "mobile_img": "/img/uploads/7b7baebd-63a8-4c29-a5d0-ede0bfcc65e5.jpg"
+        },
+        {
           "start": "2026-07-01T00:26:35.353Z",
           "end": "2027-03-31T19:49:59.667Z",
           "img": "/img/uploads/banner_1600x500.jpg",
