@@ -105,11 +105,11 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 2,
       "collection_id": "603cd4309332dd6865e29c12:categories:DERMACHEM:/dermachem",
       "sort": "sales",
-      "title": "Derma Chem -  Novos Preços ",
-      "link": "https://www.jessimake.com.br/dermachem"
+      "title": "Produtos em Alta",
+      "link": "https://www.jessimake.com.br/meu-primeiro-pedido"
     },
     {
       "type": "banner-slider",
